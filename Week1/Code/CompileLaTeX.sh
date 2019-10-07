@@ -1,4 +1,5 @@
 #!/bin/bash
+#simple script to complie latex with bibtex
 pdflatex $1.tex
 pdflatex $1.tex
 bibtex $1
