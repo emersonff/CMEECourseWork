@@ -4,6 +4,7 @@
 _a_global = 10
 
 def a_function():
+    print(_a_global)
     _a_global = 5
     _a_local = 4
     print("Inside the funciton, the value is ", _a_global)

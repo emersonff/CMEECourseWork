@@ -6,12 +6,14 @@
 
 __appname__ = "dicitonary"
 __author__ = "Xiang Li(xiang.li419@imperial.ac.uk)"
-__version__="0.0.1"
-__license__="none"
+__version__ = "0.0.1"
+__license__ = "none"
+###imports
+import sys
 
 ###global variables
 taxa = [ ('Myotis lucifugus','Chiroptera'),
-         ('Gerbillus henleyi','Rodentia',),
+         ('Gerbillus henleyi','Rodentia'),
          ('Peromyscus crinitus', 'Rodentia'),
          ('Mus domesticus', 'Rodentia'),
          ('Cleithrionomys rutilus', 'Rodentia'),
@@ -20,18 +22,22 @@ taxa = [ ('Myotis lucifugus','Chiroptera'),
          ('Lyacon pictus', 'Carnivora'),
          ('Arctocephalus gazella', 'Carnivora'),
          ('Canis lupus', 'Carnivora'),
-        ]
+        ] #list of tuples
 
 taxa_dic = {}#initialise
 
 ###functions
 def pop_dic():
+        """function to populate a dicitonary and store it in global variable taxa_dic"""
         global taxa, taxa_dic #global variables declaration
-
-
+        for i in range(len(taxa)):
+                taxa_dic[taxa[i][1]] = set()## set all keys and initiallise all values to empty sets
+        for i in range(len(taxa)):
+                taxa_dic[taxa[i][1]].add(taxa[i][0])## iterate the list and add values to the corresponding sets according to the kay names
         return 0
 
 def main(argv):
+        """main entry point to the program"""
         pop_dic()
         print(str(taxa_dic))
         return 0
