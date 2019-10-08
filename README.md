@@ -1,20 +1,13 @@
-# Coursework for MIDS Scaling Up! Really Big Data
+# My CMEE Coursework Repository
 
-This is an index of coursework for the MIDS class "Scaling Up! Really Big Data". Please submit corrections if you find problems in the assignments. Submissions should be well-formed git pull requests.
+This is an index of coursework for Computational Methods in Ecology and Evolution.
 
-## Week 1: Introduction
+## Week 1: Unix, Shell, git and LaTeX
 
-### Labs
+0. [Week 1 directory](Week1)
 
-0. [Provisioning in SoftLayer](week1/labs/softlayer_provisioning)
 
-## Week 2: Cloud Computing 101
+## Week 2: Python 1
 
-### Homework
-
-0. [Working with Cloud Resources](week2/homework/cloud_resources)
-
-### Labs
-
-0. [Salt States and Docker deployment of the ELK stack](week2/labs/salt_states_and_docker-ELK)
+0. [Week 2 directory](Week2)
 
