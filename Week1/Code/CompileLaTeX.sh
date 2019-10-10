@@ -15,3 +15,5 @@ rm *.nav
 rm *.out
 rm *.snm
 rm *.toc
+rm *.bbl
+rm *.blg
