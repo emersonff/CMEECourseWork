@@ -8,6 +8,7 @@ Answers of FASATA exercises are stored in [UnixPrac1.txt](Code/UnixPrac1.txt) un
 
 ## Shell Scripting
 * [boilerplate.sh](Code/boilerplate.sh): 
+
 A simple bash script that print "This is a shell script!" in ternimal. To run it, simply type down the following command in the terminal:
 ```bash boilerplate.sh```
 
