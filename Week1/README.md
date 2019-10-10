@@ -10,11 +10,12 @@ Answers of FASATA exercises are stored in [UnixPrac1.txt](Code/UnixPrac1.txt) un
 * [boilerplate.sh](Code/boilerplate.sh): 
 
 A simple bash script that print "This is a shell script!" in ternimal. To run it, simply type down the following command in the terminal:
-```bash boilerplate.sh```
+
+    bash boilerplate.sh
 
 * [tabtocsv.sh](Code/tabtocsv.sh):
 
-A script to convert a tab separated file into a __c__omma __s__eparated __v__alues file. It is saved as a different named file. To run:
+A script to convert a tab separated file into a **c**omma **s**eparated **v**alues file. It is saved as a different named file. To run:
 
     bash tabtocsv.sh file_name
 
@@ -52,7 +53,7 @@ A script to convert all .tif files in current directory into .jpg files. This sc
 
 * [csvtospace.sh](Code/csvtospace.sh):
 
-This script takes a __c__omma __s__eparated __v__alues and converts it to a space separated values file and saves it as a different named file in current directory. The user should not To run:
+This script takes a **c**omma **s**eparated **v**alues and converts it to a space separated values file and saves it as a different named file in current directory. The user should not To run:
 
     bash csvtospace.sh csv_file
 
