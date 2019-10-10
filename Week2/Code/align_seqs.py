@@ -9,6 +9,7 @@ __license__ = "none"
 
 ###imports
 import sys
+import csv
 
 ###global variables 
 l1, l2, s1, s2= [0 for i in range(4)]# initialise all to 0
@@ -22,6 +23,7 @@ def init():
     f = open("../Data/seqs.txt", "r") # a single file that stores each sequence on a separate line
     seq1 = f.readline() #"ATCGCCGGATTACGGG\n"
     seq2 = f.readline() #"CAATTCGGAT\n"
+    f.close() 
     seq1 = seq1[:-1]##get characters from position 0 to position n-1 #omit new line character
     seq2 = seq2[:-1]
     l1 = len(seq1)

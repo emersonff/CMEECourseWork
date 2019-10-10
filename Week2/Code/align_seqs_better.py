@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Take the DNA sequences as an input from fasta files in ../Data/fasta directory and save the best alignment along with its corresponding score in a single 
+"""Take the DNA sequences as an input from a signal external file and save the best alignment along with its corresponding score in a single 
 text file to an appropriate location. No external input should be required.
 """
 __appname__ = "align 2 DNA sequences"
@@ -9,22 +9,23 @@ __license__ = "none"
 
 ###imports
 import sys
+import pickle
 
 ###global variables 
 l1, l2, s1, s2= [0 for i in range(4)]# initialise all to 0
 
 ###functions
-def init(f1 = open("../Data/fasta/407228326.fasta", "r"), f2 = open("../Data/fasta/407228412.fasta", "r")):
-    """A fucntion that takes two files as in. Defualt files are ../Data/fasta/407228326.fasta and ../Data/fasta/407228412.fasta
+def init():
+    """A fucntion that read DNA sequences from an external file.
     Assign the longer sequence s1, and the shorter to s2.
     l1 is length of the longest, l2 that of the shortest"""
     global l1, l2, s1, s2
-    seq1 = f1.readline()#omit first line
-    seq2 = f2.readline()
-    seq1 = f1.read().replace("\n", "")#delete all new line characters
-    seq2 = f2.read().replace("\n", "")
-    f1.close()
-    f2.close()
+    f = open("../Data/seqs.txt", "r") # a single file that stores each sequence on a separate line
+    seq1 = f.readline() #"ATCGCCGGATTACGGG\n"
+    seq2 = f.readline() #"CAATTCGGAT\n"
+    f.close() 
+    seq1 = seq1[:-1]##get characters from position 0 to position n-1 #omit new line character
+    seq2 = seq2[:-1]
     l1 = len(seq1)
     l2 = len(seq2)
     if l1 >= l2:
@@ -63,27 +64,34 @@ def calculate_score(s1, s2, l1, l2, startpoint):
 # calculate_score(s1, s2, l1, l2, 5)
 
 def find_best():
-    """A function to find the best match(highest score) for the two sequences"""
-    my_best_align = None
+    """A function to find all best matches(highest score) for the two sequences and save them to Result directory in align_result.txt"""
+    #my_best_align = None
     my_best_score = -1
-
-    for i in range(l1): # Note that you just take the last alignment with the highest score
+    txt = []
+    index = []
+    f = open("../Result/align_result.txt","wb")
+    for i in range(l1): # store all scores in index list
         z = calculate_score(s1, s2, l1, l2, i)
-        if z > my_best_score:
-            my_best_align = "." * i + s2 # think about what this is doing! --------point out where is the start point
-            my_best_score = z 
-    print(my_best_align)
-    print(s1)
-    print("Best score:", my_best_score)
+        index.append(z)
+    my_best_score = max(index) # highest score
+    for i in range(l1):
+        if index[i] == my_best_score:
+            txt.append("." * i + s2) ##append the best align to txt list
+    pickle.dump(txt, f)
+    f.close()
+    print("All best results has been recorded in ../Result/align_result.txt")
+    f = open("../Result/align_result.txt","rb")
+    best = pickle.load(f)
+    f.close()
+    print(best)
+    #print(index)
+    #print(my_best_align)
+    #print(s1)
+    #print("Best score:", my_best_score)
 
 
 def main(argv):
-    if(len(argv) >2):# if file names are specified by users
-        f1 = open("../Data/fasta/" + argv[1], "r")# open file specified in first argument
-        f2 = open("../Data/fasta/" + argv[2], "r")# open file specified in second argument
-        init(f1, f2) 
-    else:
-        init()
+    init()
     find_best()
     return 0
 

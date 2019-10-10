@@ -83,3 +83,5 @@ def find_all_primes(x=22):
 ############################################
 
 doctest.testmod()
+#python -m doctest -v your_function_to_test.py
+# run doctest on the fly
