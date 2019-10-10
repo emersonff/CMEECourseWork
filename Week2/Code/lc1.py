@@ -26,7 +26,7 @@ birds = ( ('Passerculus sandwichensis','Savannah sparrow',18.7),
 ###functions
 def lc():
     """list comprehensions"""
-    global birds
+    #global birds
     latin_name = [i[0] for i in birds] #  list that stores latin names
     common_name = [i[1] for i in birds] #  list that stores common names
     mass = [i[2] for i in birds] # list stores body masses
@@ -37,7 +37,7 @@ def lc():
 
 def loops():
     """conventional loops"""
-    global birds
+    #global birds
     latin_name = list()
     common_name = list()
     mass = list()

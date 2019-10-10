@@ -22,7 +22,7 @@ birds = ( ('Passerculus sandwichensis','Savannah sparrow',18.7),
 ###function
 def print_loop():
     """print every tuple on a separate line using a for loop"""
-    global birds
+    #global birds
     for i in birds:
         a = str(i)
         print(a)
@@ -30,7 +30,7 @@ def print_loop():
 
 def print_sep():
     """print every tuple on a separate line using * and sep operator"""
-    global birds
+    #global birds
     print(*birds, sep = "\n") # *birds: unpacking the tuple "birds"
                               #sep = "\n" seperating each element in birds tuple using "\n"
     return 0

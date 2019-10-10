@@ -29,7 +29,7 @@ taxa_dic = {}#initialise
 ###functions
 def pop_dic():
         """function to populate a dicitonary and store it in global variable taxa_dic"""
-        global taxa, taxa_dic #global variables declaration
+        #global taxa, taxa_dic #global variables declaration
         for i in range(len(taxa)):
                 taxa_dic[taxa[i][1]] = set()## set all keys and initiallise all values to empty sets
         for i in range(len(taxa)):

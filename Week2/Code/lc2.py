@@ -36,7 +36,7 @@ rainfall = (('JAN',111.4),
 ###functions
 def lc():
     """create and print lists of tuples using list comprehensions"""
-    global rainfall
+    #global rainfall
     g_100 = [(i[0], i[1]) for i in rainfall if i[1] >100]
     l_50 = [i[0] for i in rainfall if i[1] < 50]
     print("greater than 100ml: " + str(g_100))
@@ -45,7 +45,7 @@ def lc():
 
 def loops():
     """create and print lists of tuples using conventional loops"""
-    global rainfall
+    #global rainfall  
     g_100 = []
     l_50 = []
     for i in rainfall:
