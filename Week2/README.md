@@ -1,8 +1,7 @@
 # Week 2:Biological Computing in Python 1
-In this week, all python files are assumed to run under ipyhton environment. Type `ipython` in terminal to enter ipython.
+all python files listed below are assumed to run under ipyhton environment. Type `ipython` in terminal to enter ipython. using `python` command to run python script if you want to run from bash ternimal.
 
 ## Python Input/Output
-In this section, all files are saved in [Sandbox](Sandbox) directory.
 * [basic_io1.py](Code/basic_io1.py):
 A python file that prints all the lines in [test.txt](Sandbox/test.txt) and then prints lines again without blank lines. To run:
 
@@ -18,63 +17,19 @@ A python file using `pickle` package to save a dictionary to [testp.p](Sandbox/t
 
     run basic_io3.py
 
-## Shell Scripting
-* [boilerplate.sh](Code/boilerplate.sh): 
+### Handling  `csv` Files
+* [basic_csv.py](Code/basic_csv.py):
+Reads [testcsv.csv](Data/testcsv.csv) in [Data](Data) directory and prints each species name on a seprate line. Then writes a file [bodymass.csv](Data/bodymass.csv) containing only species name and Body mass. And then prints [bodymass.csv](Data/bodymass.csv). To run:
 
-A simple bash script that print "This is a shell script!" in ternimal. To run it, simply type down the following command in the terminal:
+    run basic_csv.py
 
-    bash boilerplate.sh
+## Control Flows Tools
+### Conditionals
+* [cfexercises1.py](Code/cfexercises1.py):
+A python file using `pickle` package to save a dictionary to [testp.p](Sandbox/testp.p), Then it will load the dictionary from the file and print it. To run:
 
-* [tabtocsv.sh](Code/tabtocsv.sh):
+### Loops
+* [loops.py](Code/loops.py):
 
-A script to convert a tab separated file into a **c**omma **s**eparated **v**alues file. It is saved as a different named file. To run:
-
-    bash tabtocsv.sh file_name
-
-
-* [variables.sh](Code/variables.sh):
-
-A script to show how to accept inputs from terminal. To run:
-
-    bash variables.sh
-
-* [MyExampleScript.sh](Code/MyExampleScript.sh):
-
-A script to show how to print variables. To run:
-
-    bash MyExampleScript.sh
-
-* [CountLines.sh](Code/CountLines.sh):
-
-
-A simple bash script that count the line numbers of a given file. To run:
-
-    bash CountLines.sh file_name
-
-* [ConcatenateTwoFiles.sh](Code/ConcatenateTwoFiles.sh):
-
-A script to concatenate two files into a single file. The first two arguments should specify which files will be merged and the third argument specifies the merged file. To run:
-
-    bash ConcatenateTwoFiles.sh first_file second_file merged_file
-
-* [tiff2png.sh](Code/tiff2png.sh):
-
-A script to convert all .tif files in current directory into .jpg files. This script assumes that you have already done ```sudo apt install imagemagick```. To run:
-
-    bash tiff2png.sh
-
-* [csvtospace.sh](Code/csvtospace.sh):
-
-This script takes a **c**omma **s**eparated **v**alues and converts it to a space separated values file and saves it as a different named file in current directory. The user should not To run:
-
-    bash csvtospace.sh csv_file
-
-## Version control with Git
-Added .gitgnore file and README.md file.
-
-## Scientific documents with LaTeX
-* [CompileLaTeX.sh](Code/CompileLaTeX.sh):
-
-A script that automatically compiles a latex file. It also adds citations and create a `.pdf` file as well as delete any redundant files. To compile [FirstExample.tex](Code/FirstExample.tex):
-
-    bash CompileLaTeX.sh FirstExample
+### Loops and Conditional Combined
+* [cfexercises2.py](Code/cfexercises2.py):

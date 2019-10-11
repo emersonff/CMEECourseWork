@@ -20,7 +20,7 @@ g = open('../Data/bodymass.csv','w')
 csvread = csv.reader(f)
 csvwrite = csv.writer(g)
 for row in csvread:
-    print(row)
+    #print(row)
     csvwrite.writerow([row[0], row[4]])
 
 f.close()
