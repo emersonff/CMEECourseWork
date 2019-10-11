@@ -13,24 +13,26 @@ def is_an_oak(name):
     >>> is_an_oak("Quercuss")
     False
 
-    >>> is_an_oak("Quercus robur")
+    >>> is_an_oak("Quercus")
     True
     """
-    return name.lower().startswith('quercus ')
+    return name.lower() == ('quercus') ## a typo should return False
 
 def main(argv): 
-    f = open('../Data/trees.csv','r')
+    f = open('../Data/TestOaksData.csv','r')
     g = open('../Data/JustOaksData.csv','w')
     taxa = csv.reader(f)
     csvwrite = csv.writer(g)
     oaks = set()
+    csvwrite.writerow(["Genus", "species"])
     for row in taxa:
-        print(row)
-        print ("The genus is: ") 
-        print(row[0] + '\n')
-        if is_an_oak(row[0]):
-            print('FOUND AN OAK!\n')
-            csvwrite.writerow([row[0], row[1]])    
+        if row[0].lower() != "genus":
+            print(row)
+            print ("The genus is: ") 
+            print(row[0] + '\n')
+            if is_an_oak(row[0]):
+                print('FOUND AN OAK!\n')
+                csvwrite.writerow([row[0], row[1]])    
     f.close()
     g.close()
     return 0

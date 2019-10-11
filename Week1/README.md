@@ -63,6 +63,6 @@ Added .gitgnore file and README.md file.
 ## Scientific documents with LaTeX
 * [CompileLaTeX.sh](Code/CompileLaTeX.sh):
 
-A script that automatically compiles a latex file. It also adds citations and create a `.pdf` file as well as delete any redundant files. To compile [FirstExample.tex](Code/FirstExample.tex):
+A script that automatically compiles a latex file. It also adds citations and creates a `.pdf` file as well as deletes any redundant files. To compile [FirstExample.tex](Code/FirstExample.tex):
 
     bash CompileLaTeX.sh FirstExample
