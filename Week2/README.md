@@ -93,7 +93,7 @@ A python program to show the difference between running a program and importing 
 ```
 run using_name.py
 ```
-Or to import as a module:
+Or to import it as a module:
 ```python
 import using_name
 ```
@@ -130,7 +130,7 @@ A python program that is able to using list comprehensions or conventional loops
 ```
 run lc1.py
 ```
-Or to import as a module:
+Or to import it as a module:
 ```python
 import lc1
 lc1.lc()
@@ -146,7 +146,7 @@ A python program that is able to using list comprehensions or conventional loops
 ```
 run lc2.py
 ```
-Or to import as a module:
+Or to import it as a module:
 ```python
 import lc2
 lc2.lc()
@@ -168,7 +168,7 @@ The `main` function invokes both `print_loop()` and `print_sep()`. To run:
 ```
 run tuple.py
 ```
-Or to import as a module:
+Or to import it as a module:
 ```python
 import tuple
 tuple.print_loop() #print every tuple on a separate line using a for loop
