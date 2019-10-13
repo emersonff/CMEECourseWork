@@ -12,23 +12,32 @@ run basic_io1.py
 * [basic_io2.py](Code/basic_io2.py):
 A python file that save each element in `range(100)` on a seperate line in [testout.txt](Sandbox/testout.txt). To run:
 
-    run basic_io2.py
+```
+run basic_io2.py
+```
 
 * [basic_io3.py](Code/basic_io3.py):
 A python file using `pickle` package to save a dictionary to [testp.p](Sandbox/testp.p), Then it will load the dictionary from the file and print it. To run:
 
-    run basic_io3.py
+```
+run basic_io3.py
+```
 
 ### Handling  `CSV` Files
 * [basic_csv.py](Code/basic_csv.py):
 Reads [testcsv.csv](Data/testcsv.csv) in [Data](Data) directory and prints each species name on a seprate line. Then writes a file [bodymass.csv](Data/bodymass.csv) containing only species name and Body mass. And then prints [bodymass.csv](Data/bodymass.csv). To run:
 
-    run basic_csv.py
+```
+run basic_csv.py
+```
 
 ## Control Flows Tools
 ### Conditionals
 * [cfexercises1.py](Code/cfexercises1.py):
-A python file using `pickle` package to save a dictionary to [testp.p](Sandbox/testp.p), Then it will load the dictionary from the file and print it. To run:
+A python file demonstrates how to use conditional statements. It has been modified into functions which accept parameter(s) and return corresponding value(s). The main function contains servral call instances. To run:  
+```
+run cfexercises1.py
+```
 
 ### Loops
 * [loops.py](Code/loops.py):

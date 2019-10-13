@@ -51,12 +51,12 @@ def foo_6(x):
 
 def main(argv):
     """Main entry point of the program"""
-    foo_1(12)
-    foo_2(23 ,33)
-    foo_3(45,222,33)
-    foo_4(15)
-    foo_5(12)
-    foo_6(213)
+    print(foo_1(12))
+    print(foo_2(23 ,33))
+    print(foo_3(45,222,33))
+    print(foo_4(7))
+    print(foo_5(7))
+    print(foo_6(7))
     return 0
 
 if __name__ == "__main__":
