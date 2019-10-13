@@ -1,8 +1,9 @@
 #!/usr/bin/env python3
-"""python exercise tuple.py"""
+"""python exercise tuple.py
 # Birds is a tuple of tuples of length three: latin name, common name, mass.
 # write a (short) script to print these on a separate line or output block by species 
 # Hints: use the "print" command! You can use list comprehensions!
+"""
 __appname__ = "tuple"
 __author__ = "Xiang Li"
 __version__ = "0.0.1"

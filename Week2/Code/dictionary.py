@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
-"""python exercise dictionary.py"""
-# Write a short python script to populate a dictionary called taxa_dic 
-# derived from  taxa so that it maps order names to sets of taxa. 
-# E.g. 'Chiroptera' : set(['Myotis lucifugus']) etc. 
-
+"""python exercise dictionary.py
+Write a short python script to populate a dictionary called taxa_dic 
+derived from  taxa so that it maps order names to sets of taxa. 
+E.g. 'Chiroptera' : set(['Myotis lucifugus']) etc. 
+"""
 __appname__ = "dicitonary"
 __author__ = "Xiang Li(xiang.li419@imperial.ac.uk)"
 __version__ = "0.0.1"

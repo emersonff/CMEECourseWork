@@ -109,10 +109,10 @@ run sysargv.py [var1, var2 ..]
 * [control_flow.py](Code/control_flow.py):
 An example of a script that uses various control flow tools within a standard python program structure. It has four functions:
 ```python
-def even_or_odd(x = 0) #Find whether a number x is even or odd.
-def largest_divisor_five(x = 120) #Find which is the largest divisor of x among 2,3,4,5.
-def is_prime(x = 70) #Find whether an integer is prime
-def find_all_primes(x = 22) #Find all the primes up to x
+even_or_odd(x = 0) #Find whether a number x is even or odd.
+largest_divisor_five(x = 120) #Find which is the largest divisor of x among 2,3,4,5.
+is_prime(x = 70) #Find whether an integer is prime
+find_all_primes(x = 22) #Find all the primes up to x
 ```
 To run it as a program:
 ```
@@ -143,7 +143,7 @@ A python program that is able to using list comprehensions or conventional loops
  the amount of rain was greater than 100 mm and a list of just month names where the
  amount of rain was less than 50 mm.  
  It also contains `lc()` and `loops()` functions. The `main` function invokes both. To run:
- ```
+```
 run lc2.py
 ```
 Or to import as a module:
@@ -153,9 +153,32 @@ lc2.lc()
 lc2.loops()
 ```
 
-* [dictionary.py](Code/dictionary.py)
+* [dictionary.py](Code/dictionary.py):
+
+A python program that populates a dictionary called `taxa_dic` derived from `taxa` so that it maps order names to sets of taxa. 
+E.g. 'Chiroptera' : set(['Myotis lucifugus']) etc. To run:
+```
+run dictionary.py
+```
+
+* [tuple.py](Code/tuple.py):
+
+A python program that is able to print each element in a tuple called `birds` on a separate line using for-loop or `sep` operator.  
+The `main` function invokes both `print_loop()` and `print_sep()`. To run:
+```
+run tuple.py
+```
+Or to import as a module:
+```python
+import tuple
+tuple.print_loop() #print every tuple on a separate line using a for loop
+tuple.print_sep() #print every tuple on a separate line using * and sep operator
+```
 
 ## Error in Your Python Code
+### Unit Testing
+#### Unit Testing with `doctest`
+
 
 ## Functions, Modules, and Code Compartmentalization
 
