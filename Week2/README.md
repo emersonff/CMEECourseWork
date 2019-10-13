@@ -156,7 +156,7 @@ lc2.loops()
 * [dictionary.py](Code/dictionary.py):
 
 A python program that populates a dictionary called `taxa_dic` derived from `taxa` so that it maps order names to sets of taxa. 
-E.g. 'Chiroptera' : set(['Myotis lucifugus']) etc. To run:
+E.g. `'Chiroptera' : set(['Myotis lucifugus'])` etc. To run:
 ```
 run dictionary.py
 ```
