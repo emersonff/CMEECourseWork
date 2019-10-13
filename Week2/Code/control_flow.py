@@ -12,13 +12,13 @@ import sys #module to interface our program with the operating system
 ##constants##
 
 ##functions##
-def even_or_odd(x=0): #if not specifed, x should take vavlue 0
+def even_or_odd(x = 0): #if not specifed, x should take vavlue 0
     """Find whether a number x is even or odd."""
     if x % 2 == 0:
         return "%d is Even" %x
     return "%d is Odd" %x
 
-def largest_divisor_five(x=120):
+def largest_divisor_five(x = 120):
     """Find which is the largest divisor of x among 2,3,4,5."""
     largest = 0
     if x % 5 == 0:
@@ -33,7 +33,7 @@ def largest_divisor_five(x=120):
         return "No divisor found for %d" %x
     return "The largest divisor of %d is %d" %(x, largest)
 
-def is_prime(x=70):
+def is_prime(x = 70):
     """Find whether an integer is prime"""
     for i in range(2, x):
         if x % i == 0:
@@ -42,7 +42,7 @@ def is_prime(x=70):
     print("%d is a prime" %x)
     return True
 
-def find_all_primes(x=22):
+def find_all_primes(x = 22):
     """Find all the primes up to x"""
     allprimes = []
     for i in range(2, x + 1):

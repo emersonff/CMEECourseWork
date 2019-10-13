@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
-"""lc1"""
+"""Write three different
+ lists containing the latin names, common names and mean body masses for
+ each species in birds, respectively"""
 #(1) Write three separate list comprehensions that create three different
 # lists containing the latin names, common names and mean body masses for
 # each species in birds, respectively. 

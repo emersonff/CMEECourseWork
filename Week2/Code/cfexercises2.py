@@ -9,14 +9,14 @@ __license__ = "none"
 import sys
 
 ###functions###
-def foo_1(x = 10):
+def foo_1(x = 12):
     """ print hello every time find a number in [0, x) that is a multiple of 3.""" 
     for j in range(x):
         if j % 3 == 0:
             print("hello")
     return 0
 
-def foo_2(x):
+def foo_2(x = 15):
     """print hello every time find a number y in [0, x) that y mod 4 or 5 is equal to 3.""" 
     for j in range(x):
         if j % 5 == 3:
@@ -25,7 +25,7 @@ def foo_2(x):
             print("hello")
     return 0
 
-def foo_3(x):
+def foo_3(x = 15):
     """print numbers in [0, x) with a interval of 3"""
     z = 0
     while z != x:
@@ -33,7 +33,7 @@ def foo_3(x):
         z = z + 3
     return 0
 
-def foo_4(x, y):
+def foo_4(x = 12, y = 100):
     """search in [x, y). if 31 is in that interval, print 'hello' 7 times. Otherwise if 18 is in the 
     interval, print 'hello' once. """
     z = x
@@ -48,11 +48,10 @@ def foo_4(x, y):
     
 def main(argv):
     """Main entry point of the program"""
-    foo_1(12)
     foo_1()
-    foo_2(23)
-    foo_3(45)
-    foo_4(15, 60)
+    foo_2()
+    foo_3()
+    foo_4()
     return 0
 
 if __name__ == "__main__":
