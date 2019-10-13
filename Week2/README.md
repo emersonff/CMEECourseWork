@@ -17,7 +17,7 @@ A python file using `pickle` package to save a dictionary to [testp.p](Sandbox/t
 
     run basic_io3.py
 
-### Handling  `csv` Files
+### Handling  `CSV` Files
 * [basic_csv.py](Code/basic_csv.py):
 Reads [testcsv.csv](Data/testcsv.csv) in [Data](Data) directory and prints each species name on a seprate line. Then writes a file [bodymass.csv](Data/bodymass.csv) containing only species name and Body mass. And then prints [bodymass.csv](Data/bodymass.csv). To run:
 
@@ -33,3 +33,5 @@ A python file using `pickle` package to save a dictionary to [testp.p](Sandbox/t
 
 ### Loops and Conditional Combined
 * [cfexercises2.py](Code/cfexercises2.py):
+
+## Comprehensions
