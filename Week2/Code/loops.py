@@ -11,7 +11,7 @@ for k in my_list:
 total = 0
 summands = [0, 1, 11, 111, 1111]
 for s in summands:
-    total = total + s
+    total = total + s#count the sum
     print(total)
 
 # While loops in python

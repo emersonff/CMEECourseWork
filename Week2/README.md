@@ -34,13 +34,25 @@ run basic_csv.py
 ## Control Flows Tools
 ### Conditionals
 * [cfexercises1.py](Code/cfexercises1.py):
-A python file demonstrates how to use conditional statements. It has been modified into functions which accept parameter(s) and return corresponding value(s). The main function contains servral call instances. To run:  
+A python file demonstrates how to use conditional statements. It has been modified into functions which accept parameter(s) and return corresponding value(s). The main function contains servral instances of function call. To run:  
+
 ```
 run cfexercises1.py
 ```
 
 ### Loops
 * [loops.py](Code/loops.py):
+A python script demonstrates how to use for-loop and while-loop. It includes:
+ * a for-loop to print numbers form 0 to 4
+ * a for-loop to print all elements in `my_list` list
+ * a for-loop to count the sum of all elements in `summands` list
+ * a while-loop to print numbers from 0 to 99
+ * a infinite while-loop.
+To run:
+
+```
+run loops.py
+```
 
 ### Loops and Conditional Combined
 * [cfexercises2.py](Code/cfexercises2.py):
