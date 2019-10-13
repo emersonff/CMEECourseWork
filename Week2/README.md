@@ -43,11 +43,11 @@ run cfexercises1.py
 ### Loops
 * [loops.py](Code/loops.py):
 A python script demonstrates how to use for-loop and while-loop. It includes:
- * a for-loop to print numbers form 0 to 4
- * a for-loop to print all elements in `my_list` list
- * a for-loop to count the sum of all elements in `summands` list
- * a while-loop to print numbers from 0 to 99
- * a infinite while-loop.
+  * a for-loop to print numbers form 0 to 4
+  * a for-loop to print all elements in `my_list` list
+  * a for-loop to count the sum of all elements in `summands` list
+  * a while-loop to print numbers from 0 to 99
+  * a infinite while-loop.
 To run:
 
 ```
