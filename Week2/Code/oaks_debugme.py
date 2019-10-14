@@ -20,7 +20,7 @@ def is_an_oak(name):
 
 def main(argv): 
     f = open('../Data/TestOaksData.csv','r')
-    g = open('../Result/JustOaksData.csv','w')
+    g = open('../Results/JustOaksData.csv','w')
     taxa = csv.reader(f)
     csvwrite = csv.writer(g)
     #oaks = set()

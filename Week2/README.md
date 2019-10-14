@@ -200,14 +200,14 @@ run debugme.py
 ### Align DNA Sequences
 * [align_seqs.py](Code/align_seqs.py):
 
-A python program that takes the DNA sequences as an input from a signal external file [seqs.txt](Data/seqs.txt)and save the best alignment along with its corresponding score in `align_result.txt` to `Result` directory. To run:
+A python program that takes the DNA sequences as an input from a signal external file [seqs.txt](Data/seqs.txt)and save the best alignment along with its corresponding score in `align_result.txt` to `Results` directory. To run:
 ```
 run align_seqs.py
 ```
 
 * [align_seqs_fasta.py](Code/align_seqs_fasta.py):
 
-A python program that takes two `fasta` files as inputs and save the best alignment along with its corresponding score in `align_fasta_result.txt` to `Result` directory.  
+A python program that takes two `fasta` files as inputs and save the best alignment along with its corresponding score in `align_fasta_result.txt` to `Results` directory.  
 [407228326.fasta](Data/fasta/407228326.fasta) and [407228412.fasta](Data/fasta/407228412.fasta) will be taken as defualt inputs if no fasta files specified. To run:
 ```
 run align_seqs_fasta.py [fasta_file1] [fasta_file2]
@@ -215,7 +215,7 @@ run align_seqs_fasta.py [fasta_file1] [fasta_file2]
 
 * [align_seqs_better.py](Code/align_seqs_better.py):
 
-A python program which is similar to [align_seqs.py](Code/align_seqs.py). The only difference is that in this python program all alignments with highest score will be written in `align_better_result.p` as a birnary file to `Result` directory. To run:
+A python program which is similar to [align_seqs.py](Code/align_seqs.py). The only difference is that in this python program all alignments with highest score will be written in `align_better_result.p` as a birnary file to `Results` directory. To run:
 ```
 run align_seqs_better.py
 ```
@@ -223,7 +223,7 @@ run align_seqs_better.py
 ### Missing Oaks Problem
 * [oaks_debugme.py](Code/oaks_debugme.py):
 
-A python program that finds all oaks in [TestOaksData.csv](Data/TestOaksData.csv) and records them in `JustOaksData.csv` to `Result` directory. The header line
+A python program that finds all oaks in [TestOaksData.csv](Data/TestOaksData.csv) and records them in `JustOaksData.csv` to `Results` directory. The header line
 'Genus', ' species' is included in the result file. And appropriate `doctest` tests are used for debugging. To run:
 ```
 run oaks_debugme.py
