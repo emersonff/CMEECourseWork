@@ -164,7 +164,7 @@ run dictionary.py
 * [tuple.py](Code/tuple.py):
 
 A python program that is able to print each element in a tuple called `birds` on a separate line using for-loop or `sep` operator.  
-The `main` function invokes both `print_loop()` and `print_sep()`. To run:
+The `main` function invokes both `print_loop()`, `print_sep()` and `print_lc()`. To run:
 ```
 run tuple.py
 ```
@@ -173,6 +173,7 @@ Or to import it as a module:
 import tuple
 tuple.print_loop() #print every tuple on a separate line using a for loop
 tuple.print_sep() #print every tuple on a separate line using * and sep operator
+tuple.print_lc() #using list comprehension
 ```
 
 ## Error in Your Python Code

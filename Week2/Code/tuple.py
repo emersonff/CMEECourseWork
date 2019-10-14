@@ -25,8 +25,8 @@ def print_loop():
     """print every tuple on a separate line using a for loop"""
     #global birds
     for i in birds:
-        a = str(i)
-        print(a)
+       # a = str(i)
+        print(i)
     return 0
 
 def print_sep():
@@ -36,6 +36,10 @@ def print_sep():
                               #sep = "\n" seperating each element in birds tuple using "\n"
     return 0
 
+def print_lc():
+    """print every tuple on a separate line using list comprehensions"""
+    [print(i) for i in birds]
+    return 0
 
 def main(argv):
     """main function"""
@@ -43,6 +47,8 @@ def main(argv):
     print_loop()
     print("\n * and  sep operator: ")
     print_sep()
+    print("\n list comprehension: ")
+    print_lc()
     return 0
 
 if __name__ == "__main__":
