@@ -20,10 +20,10 @@ def is_an_oak(name):
 
 def main(argv): 
     f = open('../Data/TestOaksData.csv','r')
-    g = open('../Data/JustOaksData.csv','w')
+    g = open('../Result/JustOaksData.csv','w')
     taxa = csv.reader(f)
     csvwrite = csv.writer(g)
-    oaks = set()
+    #oaks = set()
     csvwrite.writerow(["Genus", "species"])
     for row in taxa:
         if row[0].lower() != "genus":

@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Take the DNA sequences as an input from fasta files in ../Data/fasta directory and save the best alignment along with its corresponding score in a single 
-text file to an appropriate location. No external input should be required.
+text file to an appropriate location. 
 """
 __appname__ = "align 2 DNA sequences"
 __author__ = "Xiang Li(xiang.li419@imperial.ac.uk)"
@@ -75,6 +75,12 @@ def find_best():
     print(my_best_align)
     print(s1)
     print("Best score:", my_best_score)
+    print("writing result in ../Result/align_fasta_result.txt ...")
+    f = open("../Result/align_fasta_result.txt", "w")
+    f.write(my_best_align + "\n")
+    f.write(s1 + "\n")
+    f.write("Best score:" + str(my_best_score) + "\n")
+    print("Finished!")
 
 
 def main(argv):

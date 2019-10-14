@@ -69,7 +69,7 @@ def find_best():
     my_best_score = -1
     txt = []
     index = []
-    f = open("../Result/align_result.p","wb")
+    f = open("../Result/align_better_result.p","wb")
     for i in range(l1): # store all scores in index list
         z = calculate_score(s1, s2, l1, l2, i)
         index.append(z)
@@ -79,8 +79,8 @@ def find_best():
             txt.append("." * i + s2) ##append the best align to txt list
     pickle.dump(txt, f)
     f.close()
-    print("All best results has been recorded in ../Result/align_result.p")
-    f = open("../Result/align_result.p","rb")
+    print("All best results has been recorded in ../Result/align_better_result.p")
+    f = open("../Result/align_better_result.p","rb")
     best = pickle.load(f)
     f.close()
     print(best)

@@ -64,7 +64,7 @@ def calculate_score(s1, s2, l1, l2, startpoint):
 # calculate_score(s1, s2, l1, l2, 5)
 
 def find_best():
-    """A function to find the best match(highest score) for the two sequences"""
+    """A function to find the best match(highest score) for the two sequences and save it in Result"""
     my_best_align = None
     my_best_score = -1
 
@@ -76,7 +76,12 @@ def find_best():
     print(my_best_align)
     print(s1)
     print("Best score:", my_best_score)
-
+    print("writing result in ../Result/align_result.txt ...")
+    f = open("../Result/align_result.txt", "w")
+    f.write(my_best_align + "\n")
+    f.write(s1 + "\n")
+    f.write("Best score:" + str(my_best_score) + "\n")
+    print("Finished!")
 
 def main(argv):
     init()
