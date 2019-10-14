@@ -15,8 +15,9 @@ def foo_2(x, y):
 
 def foo_3(x, y, z):
     """ return [x, y ,z] if x <= y and y <= z
-    if x > y and x <= z return [y, x, z]
-    if x > y and x > z return [y, z, x] """
+    if x <= y and y > z, return [x, z, y]
+    if x > y and x <= z, return [y, x, z]
+    if x > y and x > z, return [y, z, x] """
     if x > y:
         tmp = y
         y = x 
