@@ -79,8 +79,8 @@ def find_best():
             txt.append("." * i + s2) ##append the best align to txt list
     pickle.dump(txt, f)
     f.close()
-    print("All best results has been recorded in ../Result/align_result.txt")
-    f = open("../Result/align_result.txt","rb")
+    print("All best results has been recorded in ../Result/align_result.p")
+    f = open("../Result/align_result.p","rb")
     best = pickle.load(f)
     f.close()
     print(best)
