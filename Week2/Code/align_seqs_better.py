@@ -69,7 +69,7 @@ def find_best():
     my_best_score = -1
     txt = []
     index = []
-    f = open("../Result/align_result.txt","wb")
+    f = open("../Result/align_result.p","wb")
     for i in range(l1): # store all scores in index list
         z = calculate_score(s1, s2, l1, l2, i)
         index.append(z)
