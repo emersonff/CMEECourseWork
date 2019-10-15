@@ -207,7 +207,7 @@ run align_seqs_fasta.py [path_to_fasta_file1] [path_to_fasta_file2]
 ```
 
 * [align_seqs_better.py](Code/align_seqs_better.py):
-A python program which is similar to [align_seqs.py](Code/align_seqs.py). The only difference is that in this python program all alignments with highest score will be written in `align_better_result.p` as a birnary file to `Results` directory. To run:
+A python program which is similar to [align_seqs.py](Code/align_seqs.py). The only difference is that in this python program all alignments with highest score will be written in `align_better_result.p` as a **birnary** file to `Results` directory. To run:
 ```
 run align_seqs_better.py
 ```
