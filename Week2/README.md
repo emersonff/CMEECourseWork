@@ -210,7 +210,7 @@ run align_seqs.py
 A python program that takes two `fasta` files as inputs and save the best alignment along with its corresponding score in `align_fasta_result.txt` to `Results` directory.  
 [407228326.fasta](Data/fasta/407228326.fasta) and [407228412.fasta](Data/fasta/407228412.fasta) will be taken as defualt inputs if no fasta files specified. To run:
 ```
-run align_seqs_fasta.py [fasta_file1] [fasta_file2]
+run align_seqs_fasta.py [path_to_fasta_file1] [path_to_fasta_file2]
 ```
 
 * [align_seqs_better.py](Code/align_seqs_better.py):

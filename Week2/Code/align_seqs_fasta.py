@@ -85,8 +85,8 @@ def find_best():
 
 def main(argv):
     if(len(argv) >2):# if file names are specified by users
-        f1 = open("../Data/fasta/" + argv[1], "r")# open file specified in first argument
-        f2 = open("../Data/fasta/" + argv[2], "r")# open file specified in second argument
+        f1 = open(argv[1], "r")# open file specified in first argument
+        f2 = open(argv[2], "r")# open file specified in second argument
         init(f1, f2) 
     else:
         init()
