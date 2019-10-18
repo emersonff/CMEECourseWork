@@ -1,3 +1,4 @@
+set.seed(1)
 M <- matrix(runif(1000000), 1000, 1000)
 
 SumAllElements <- function(M){##sum all elements in matrix M

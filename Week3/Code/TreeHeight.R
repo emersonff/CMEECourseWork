@@ -16,7 +16,7 @@
 #Creates a csv output file called TreeHts.csv in results that contains the calculated 
 #tree heights along with the original data 
 
-#apply() -operates on array/matrix
+#apply() -operates on array/matrix ,return a vector or array or list of values
 #lpply() -can be used for other objects and output is a list
 #spply() -similar to lpply but try to output the most elementary data structure that is possible
 
