@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 ##Try this first
-
+"""shows the difference between global variable and local variable."""
 _a_global = 10 # a global variable
 
 if _a_global >= 5:

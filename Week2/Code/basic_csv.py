@@ -1,9 +1,10 @@
 import csv
 
-#Read a file containing:
-#"Spicies","Infraorder","Family","Distribution", "Body mass male(Kg)"
+"""#Read a file containing:
+#"Spicies","Infraorder","Family","Distribution", "Body mass male(Kg)" """
 f = open("../Data/testcsv.csv", "r")
 
+"""read species from opened file"""
 csvread = csv.reader(f)
 temp = []
 for row in csvread:
@@ -26,7 +27,7 @@ for row in csvread:
 f.close()
 g.close()
 
-#read bodymass file
+"""read bodymass file"""
 f = open("../Data/bodymass.csv","r")
 csvread =csv.reader(f)
 for row in csvread:

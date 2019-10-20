@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-
+"""A python script containing a ZeroDivisionError error."""
 def createabug(x):
     y = x**4
     z = 0

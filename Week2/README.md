@@ -71,7 +71,12 @@ run oaks.py
 ```
 
 ## Variable Scope
+* [scope.py](Code/scope.py):
+A python script demonstrates difference between global and local variables. To run:
 
+```
+run scope.py
+```
 ## Writing Python Programs
 * [boilerplate.py](Code/boilerplate.py):
 A python program that prints a string if run it as a program(call `main` function). To run:

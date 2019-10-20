@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 #FIND just those taxa that are oak trees from a list of species
-
+"""A python script demonstrates how to use list comprehensions in python."""
 taxa = [
     'Quercus robur',
          'Fraxinus excelsior',
