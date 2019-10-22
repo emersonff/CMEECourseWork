@@ -1,4 +1,4 @@
-# Runs the stochastic (with gaussian fluctuations) Ricker Eqn .
+# Runs the stochastic (with gaussian fluctuations) Ricker Eqn . 
 rm(list=ls())
 
 set.seed(1) #set seed

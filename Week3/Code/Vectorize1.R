@@ -6,7 +6,7 @@ SumAllElements <- function(M){##sum all elements in matrix M
   Tot <- 0
   for(i in 1:Dimensions[1]){
     for(j in 1:Dimensions[2]){
-      Tot <-Tot + M[i, j]
+      Tot <- Tot + M[i, j]
     }
   }
   return (Tot)
