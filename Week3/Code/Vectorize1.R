@@ -1,3 +1,4 @@
+rm(list=ls()) #clean current obejcts in workspace
 set.seed(1)
 M <- matrix(runif(1000000), 1000, 1000)
 

@@ -1,5 +1,5 @@
 # Runs the stochastic (with gaussian fluctuations) Ricker Eqn . 
-rm(list=ls())
+rm(list=ls()) #clean current obejcts in workspace
 
 set.seed(1) #set seed
 stochrick <- function(p0 = runif(1000,.5,1.5), r = 1.2, K = 1, sigma = 0.2, numyears = 100)
