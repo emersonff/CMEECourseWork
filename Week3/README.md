@@ -2,24 +2,16 @@
 all R script can be run using  `source()` under **Rstudio** environment or using `Rscript` command in bash ternimal.
 
 ## Biological Computing in R
+In this chapter, We learned basic senmantics of R, R data structures and how to write and execute R script etc.
 
-* [basic_io1.py](Code/basic_io1.py):
-A python file that prints all the lines in [test.txt](Sandbox/test.txt) and then prints lines again without blank lines. To run:
+basic_io.R: A simple script to illustrate R input-output.  
+control_flow.R: Demonstrates how to use conditional statements  
+break.R: How to break out of a loop
+next.R: How to skip to next iteration of a loop
 
-```
-run basic_io1.py
-```
 
-* [basic_io2.py](Code/basic_io2.py):
-A python file that save each element in `range(100)` on a seperate line in [testout.txt](Sandbox/testout.txt). To run:
 
-```
-run basic_io2.py
-```
 
-* [basic_io3.py](Code/basic_io3.py):
-A python file using `pickle` package to save a dictionary to [testp.p](Sandbox/testp.p), Then it will load the dictionary from the file and print it. To run:
 
-```
-run basic_io3.py
-```
+## Data Management, Exploration and Visualization
+In this chapter, We learned how to do data wrangling and how to visualise data using `ggplot2` package.

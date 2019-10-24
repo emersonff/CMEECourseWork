@@ -1,7 +1,5 @@
 \documentclass[12pt]{article}
-\usepackage{graphicx}
 \usepackage{listings}
-\graphicspath{ {../Data/} }
 \title{Autocorrelation Practical Results}
 \author{Xiang Li}
 \date{24/10/2019}
@@ -16,7 +14,15 @@
     between successive years is $2\times 10^{-4}$.
 	
 	\section{Analysis}
-	biological 
+        \begin{itemize}
+            \item HO : temperatures of one year does NOT correlated with the next year 
+            \item H1 : temperatures of one year significantly correlated with the next year 
+        \end{itemize}
+
+	The p value, which is the fraction of the correlation coefficients from the 10000 calculations that is greater than correlation between successive years,
+    is small than 0.0005 so we reject the null hypothesis and accept the alternate hypothesis.
+
+    The result is significant. The temperatures of one year is significantly correlated with the next year with correlation equals to 0.326169651060742.
 
 	\section{Source code}
 	
