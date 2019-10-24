@@ -1,4 +1,4 @@
-# Week 2: Biological Computing in R and Data Management, Exploration and Visualization
+# Week 3: Biological Computing in R and Data Management, Exploration and Visualization
 all R script can be run using  `source()` under **Rstudio** environment or using `Rscript` command in bash ternimal.
 
 ## Biological Computing in R
