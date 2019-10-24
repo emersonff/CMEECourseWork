@@ -5,9 +5,10 @@ all R script can be run using  `source()` under **Rstudio** environment or using
 In this chapter, We learned basic senmantics of R, R data structures and how to write and execute R script etc.
 
 basic_io.R: A simple script to illustrate R input-output.  
-control_flow.R: Demonstrates how to use conditional statements  
-break.R: How to break out of a loop
-next.R: How to skip to next iteration of a loop
+control_flow.R: Demonstrates how to use conditional statements.  
+break.R: How to break out of a loop.
+next.R: How to skip to next iteration of a loop.
+boilerplate.R: boilerplate of R script
 
 
 
