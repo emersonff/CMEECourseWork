@@ -19,10 +19,13 @@ Ricker.R: The Ricker model.
 Vectorize2.R: Vectirization version of the stochastic Ricker model.   
 Vectorize1.py: python version of Vectorize1.R.   
 Vectorize2.py: python version of Vectorize2.R.   
+
 try.R: How to suppress any error messages using `try`.   
 browse.R: How to enter brower mode for debugging using `browser()`.   
 TAutoCorr.R: Practical Autocorrelation in weather.   
-
+get_TreeHeight.R: Calculates tree heights using a csv file as input and save the results.   
+get_TreeHeight.py: python version of get_TreeHeight.R.   
+run_get_TreeHeight.sh: tests get_TreeHeight.R and get_TreeHeight.py
 
 
 
