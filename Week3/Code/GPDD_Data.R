@@ -9,4 +9,8 @@ p <- ggplot() + geom_map(data = WorldData, map = WorldData,
            fill = "white", colour = "#7f7f7f", size=0.5) #plot world map
 
 p <- p + geom_point(aes(x=gpdd$long, y=gpdd$lat) ,color="blue", size=1)#insert locations
-### higher latitude  coastal region
+#save in pdf
+pdf("../Results/GPDD_Result.pdf")
+p
+graphics.off()
+### expecting:locations are bias towards higher latitude(around 50) and coastal region

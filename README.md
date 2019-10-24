@@ -11,3 +11,6 @@ This is an index of coursework for Computational Methods in Ecology and Evolutio
 
 0. [Week 2 directory](Week2)
 
+## Week 3: R and Data Management
+
+0. [Week 3 directory](Week3)
