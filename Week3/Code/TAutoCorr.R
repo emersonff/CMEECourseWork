@@ -12,4 +12,4 @@ ats <- get(load("../Data/KeyWestAnnualMeanTemperature.RData"))# load data
 #ac <- acf(ats$Temp,lag.max = 1, plot = F)
 x_t0 <- head(ats$Temp, -1) #every element in ats$Temp except last one
 x_t1 <- tail(ats$Temp, -1) #every element in ats$Temp except first one
-ac.tag1 <- cor(x_t1, x_t0) # correlation coefficient between successive years
+ac.tag1 <- cor(x_t1, x_t0) # correlation coefficient between successive ac

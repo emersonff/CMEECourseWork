@@ -16,16 +16,13 @@
 #Creates a csv output file called TreeHts.csv in results that contains the calculated 
 #tree heights along with the original data 
 
-#apply() -operates on array/matrix ,return a vector or array or list of values
-#lpply() -can be used for other objects and output is a list
-#spply() -similar to lpply but try to output the most elementary data structure that is possible
 
-
+rm(list = ls()) #clean current obejcts in workspace
 ###functions
-TreeHeight <- function(m){ #m[1]:species    m[2]:distances in meter    m[3]: degrees
-  radians <- as.numeric(m[3]) * pi /180 ##coerce from character to numeric type for calculation
-  height <-as.numeric(m[2]) * tan(radians)
-  print(paste("The tree heightis:", height))
+TreeHeight <- function(m){ #m[,1]:species    m[,2]:distances in meter    m[,3]: degrees
+  #apply calculations on each column
+  radians <- as.numeric(m[, 3]) * pi /180 ##coerce from character to numeric type for calculation
+  height <-as.numeric(m[, 2]) * tan(radians)
   return (height) #return a vector of heights
 }
 
@@ -35,10 +32,9 @@ trees.df <- read.csv("../Data/trees.csv") # data.frame
 trees.m <- as.matrix(trees.df)#matrix using matrix instead of data.frame because it is faster when lager number of mathematical 
                               #calculations
 
-trees.df$Tree.Height.m <-apply(trees.m, 1, TreeHeight) #apply TreeHeight for each row of trees.m and add output vector to trees
-                                                       #data.fram as a new column named Tree.Height.m
+trees.df$Tree.Height.m <- TreeHeight(trees.m)
 write.csv(file = "../Results/TreeHts.csv", trees.df) #write results
-
+print("results has been written.")
 
 
 
