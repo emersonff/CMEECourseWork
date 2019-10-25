@@ -27,13 +27,17 @@ get_TreeHeight.R: Calculates tree heights using a csv file as input and save the
 get_TreeHeight.py: python version of get_TreeHeight.R.   
 run_get_TreeHeight.sh: tests get_TreeHeight.R and get_TreeHeight.py
 
-
-
-
-
-
-
-
-
 ## Data Management, Exploration and Visualization
 In this chapter, We learned how to do data wrangling and how to visualise data using `ggplot2` package.
+
+DataWrang.R: A script demonstrate how to transfrom data into long format(data wrangling).  
+DataWrangTidy.R: A script uses `dplyr` and `tidyr` for the same data wrangling steps.  
+SQLinR.R: Database in R.  
+PP_Lattice.R: script that draws and saves three lattice graphs by feeding interaction type and save plots in pdf format.  
+Girko.R: Plotting two dataframes.  
+MyBars.R: How to annotate a plot.  
+plotLin.R: annotating a plot.  
+PP_Regress.R: draws regression line and points for all Feeding type * life stage category. Saves the analysis results in `.csv` file.  
+PP_Regress_loc.R: Similar to PP_Regress.R. Using Type.of.feeding.interaction, Predator.lifestage, and Location to separate data set.  
+GPDD_Data.R: Draws a world map and superimposes all coordinate points.  
+
