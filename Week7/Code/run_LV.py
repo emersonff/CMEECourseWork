@@ -8,7 +8,7 @@ __license__ = "none"
 ###imports
 import os
 
-
+# can`t using magic command within a script
 # %timeit(my_join_join(iters, mystring))
 # %timeit(my_join(iters, mystring))
 os.system("python -m cProfile LV1.py")
