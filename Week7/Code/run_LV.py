@@ -1,5 +1,5 @@
 #!usr/bin/env python3
-"""Run both LV1.py and LV2.py and profile these scripts."""
+"""Run both LV models and profile these scripts."""
 __appname__ = "run_LV"
 __author__ = "Xiang Li(xiang.li419@imperial.ac.uk)"
 __version__ = "0.0.1"

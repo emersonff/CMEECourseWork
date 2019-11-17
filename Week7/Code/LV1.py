@@ -1,6 +1,7 @@
 #!usr/bin/env python3
-"""numerical computing in python"""
-__appname__ = ""
+"""Numerical integration in Python for solving a classical model in biology
+ — the Lotka-Volterra model for a predator-prey system in two-dimensional space """
+__appname__ = "LV1.py"
 __author__ = "Xiang Li(xiang.li419@imperial.ac.uk)"
 __version__ = "0.0.1"
 __license__ = "none"
@@ -14,13 +15,13 @@ import matplotlib.pyplot as plt
 from matplotlib.backends.backend_pdf import PdfPages
 
 ### globals
-r = 1.
-a = 0.1
-z = 1.5
-e = 0.75
+r = 1. #intrinsic growth rate of the resource population
+a = 0.1 # per-captia search rate for the resource multiplied by its attack success probability
+z = 1.5 # mortality rate
+e = 0.75 # consumer's efficiency in converting resources to consumer biomass
 t = sc.linspace(0, 15, 1000) # 15 time scale divided into 1000 steps
-R0 = 10
-C0 = 5 
+R0 = 10 #initial resource population abundance
+C0 = 5 # initial comsumer population abundance
 RC0 = sc.array([R0,C0])
 
 ### functions
@@ -38,9 +39,9 @@ def main(argv):
     #take arguments from command line
     global r, a, z, e
     if len(argv) >= 2: r = argv[1]
-    if len(argv) >= 3: a = argv[2]
-    if len(argv) >= 4: z = argv[3]
-    if len(argv) >= 5: e = argv[4]
+    elif len(argv) >= 3: a = argv[2]
+    elif len(argv) >= 4: z = argv[3]
+    elif len(argv) >= 5: e = argv[4]
 
     #infodict is a dictionary contains information about the integration
     pops, infodict = integrate.odeint(dCR_dt, RC0, t, full_output= True)

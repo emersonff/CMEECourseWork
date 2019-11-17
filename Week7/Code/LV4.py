@@ -1,6 +1,6 @@
 #!usr/bin/env python3
-"""numerical computing in python"""
-__appname__ = "LV2"
+"""A discrete-time version of the LV model."""
+__appname__ = "LV4"
 __author__ = "Xiang Li(xiang.li419@imperial.ac.uk)"
 __version__ = "0.0.1"
 __license__ = "none"
@@ -45,10 +45,10 @@ def main(argv):
     #take arguments from command line
     global r, a, z, e, K
     if len(argv) >= 2: r = float(argv[1])
-    if len(argv) >= 3: a = float(argv[2])
-    if len(argv) >= 4: z = float(argv[3])
-    if len(argv) >= 5: e = float(argv[4])
-    if len(argv) >= 6: K = float(argv[5])
+    elif len(argv) >= 3: a = float(argv[2])
+    elif len(argv) >= 4: z = float(argv[3])
+    elif len(argv) >= 5: e = float(argv[4])
+    elif len(argv) >= 6: K = float(argv[5])
     #infodict is a dictionary contains information about the integration
     pops = CR(RC0, len(t))
 

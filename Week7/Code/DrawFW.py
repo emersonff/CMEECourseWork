@@ -1,6 +1,6 @@
 #!usr/bin/env python3
-"""generate a random adjacency list of food web
-    with "connectance probability" in python"""
+"""generate and plot a random adjacency list of food web
+    with "connectance probability C"""
 __appname__ = "DrawFW"
 __author__ = "Xiang Li(xiang.li419@imperial.ac.uk)"
 __version__ = "0.0.1"

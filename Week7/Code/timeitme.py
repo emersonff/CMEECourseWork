@@ -4,7 +4,7 @@ __appname__ = ""
 __author__ = "Xiang Li(xiang.li419@imperial.ac.uk)"
 __version__ = "0.0.1"
 __license__ = "none"
-
+"""using time module to recording running time."""
 ###imports
 import timeit
 import time
