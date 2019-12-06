@@ -15,10 +15,7 @@ This is an index of coursework for Computational Methods in Ecology and Evolutio
 
 0. [Week 3 directory](Week3)
 
-## Week 4: Statistics in R
+## Week 7: Biological Computing in Python 2
 
-0. [Week 4 directory](Week4)
+0. [Week 7 directory](Week7)
 
-## Week 5: Model Fitting in Ecology and Evolution
-
-0. [Week 5 directory](Week5)
