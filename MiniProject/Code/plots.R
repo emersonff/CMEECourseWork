@@ -17,6 +17,12 @@ p
 graphics.off()
 
 
+
+
+
+
+
+
 p <- ggplot(d, aes(x = log10(Time), y = log10(PopBio), color = Medium))
 p <- p + geom_point(size =I(0.3))
 p <- p + facet_wrap(~Species, nrow = 5, ncol = 9, strip.position = "bottom")
@@ -36,18 +42,27 @@ graphics.off()
 #p <- p + geom_boxplot()
 #p <- p + facet_wrap(~Temp, nrow = 5, ncol = 4, strip.position = "bottom")
 
-a <- d %>% group_by(Species, Citation) %>% summarise()
+a <- d %>% group_by(Species, Citation) %>% summarise()#45
 
 subsets <- apply(a, 1, function(x){
   subset(d, d$Species == x[1] & d$Citation == x[2])
 })
 
+
 pdf("../Results/plots.pdf")
-for(i in 1:length(subsets)){
-  p <- ggplot(subsets[[i]], aes(x = Time, y = log10(PopBio), color = Medium))
+#for(i in 1:length(subsets)){
+#  p <- ggplot(subsets[[i]], aes(x = Time, y = log10(PopBio), color = Medium))
+#  p <- p + geom_point(size =I(0.3))
+#  p <- p + facet_wrap(~Temp, strip.position = "bottom")
+#  p <- p + ggtitle(subsets[[i]][1, 7])
+#  print(p)
+#}
+plots <- lapply(subsets, function(x){
+  p <- ggplot(x, aes(x = Time, y = log10(PopBio), color = Medium))
   p <- p + geom_point(size =I(0.3))
   p <- p + facet_wrap(~Temp, strip.position = "bottom")
+  p <- p + ggtitle(x[1, 7])
   print(p)
-}
+})
 graphics.off()
 
