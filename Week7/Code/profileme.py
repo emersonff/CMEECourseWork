@@ -20,6 +20,7 @@ def my_join(iters, string):
     return out
 
 def run_my_funcs(x,y):
+    """run two functions above."""
     print(x,y)
     my_squares(x)
     my_join(x,y)

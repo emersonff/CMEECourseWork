@@ -22,12 +22,14 @@ def my_squares_matrix(iters):
 
 
 def my_join(iters, string):
+    """join string with comma for iters number of iteration."""
     out = ''
     for i in range(iters):
         out += ", " + string
     return out
 
 def run_my_funcs(x,y):
+    """run two functions above."""
     print(x,y)
     my_squares(x)
    # my_squares_matrix(x)

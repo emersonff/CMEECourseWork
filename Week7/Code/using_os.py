@@ -1,4 +1,4 @@
-""" This is blah blah"""
+""" Gets files and directories in your home/ that start with either an upper or lower case 'C'"""
 
 # Use the subprocess.os module to get a list of files and  directories 
 # in your ubuntu home directory 
