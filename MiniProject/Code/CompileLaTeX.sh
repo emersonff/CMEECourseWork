@@ -1,3 +1,4 @@
+#!/bin/bash
 if [ $# -eq 0 ]
 then
 echo "No input files."
@@ -8,8 +9,8 @@ pdflatex $f
 biber References
 pdflatex $f
 pdflatex $f
-#move pdf to results folder
-mv ./$f.pdf ../Results/ ##generalise
+#move to Results
+mv ./$f.pdf ../Results/ 
 evince ../Results/$f.pdf &
 
 ##Cleanup
