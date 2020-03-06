@@ -1,14 +1,22 @@
-#!/bin/bash
-#simple script to complie latex with bibtex
-pdflatex $1.tex
-pdflatex $1.tex
-bibtex References
-pdflatex $1.tex
-pdflatex $1.tex
-evince $1.pdf &
+if [ $# -eq 0 ]
+then
+echo "No input files."
+else
+f=`basename $1 |cut -f 1 -d "."`
+pdflatex $f
+pdflatex $f
+biber References
+pdflatex $f
+pdflatex $f
+#move pdf to results folder
+mv ./$f.pdf ../Results/ ##generalise
+evince ../Results/$f.pdf &
 
+##Cleanup
 rm *~
 rm *.aux
+rm *.xml
+rm *.bcf
 rm *.dvi
 rm *.log
 rm *.nav
@@ -17,4 +25,5 @@ rm *.snm
 rm *.toc
 rm *.bbl
 rm *.blg
-rm *.nlo
+rm *.pdf
+fi
