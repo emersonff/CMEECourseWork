@@ -1,0 +1,58 @@
+
+\section{Methods}
+\subsection{Data Exploration}
+Data used in this work were collected from 10 different previously published journals. This data set contains microbial growth data of 45 species measured under different temperature and substrate conditions. For convenience reasons, each independent sub-data set was given a unique id composed by the species, temperature, medium, replication number, and source. Irrational records contain negative time(s) or negative biomass were removed before fitting models to the data set. Since all the models proposed in this project depict the growth curve of the natural logarithm of microbial population size/concentration, the population value was transformed in its natural logarithm in advance.\\
+
+By visually inspecting each sub-dataset, it can be concluded that most of the experimental data sets form a sigmoidal curve. There is a certain amount of sub-data sets showing an obvious decline in population size after they reach maximum. This phenomenon indicates that the mortality phase was recorded in some experiments. the mortality phase was ignored as it is not the main interest of the project.\\
+
+\subsection{Models}
+\begin{table}[H]
+\centering
+\caption{Models used and their modified forms}
+\label{tab:Models}
+\begin{tabular}{@{}lllll@{}}
+\hline
+\begin{tabular}[c]{@{}l@{}}Models\end{tabular} & Equation  &free parameters \\ 
+\hline
+Logistic & $N_t=N_0 + \frac{N_{max}-N_0}{1+e^{\frac{4\mu(\lambda-t)}{N_{max}-N_0}+2}} $ & 4 \\
+Gompertz & $N_t=N_0 + {N_{max}-N_0}e^{-e^{\frac{\mu e(\lambda-t)}{N_{max}-N_0}+1}} $ & 4  \\
+Baranyi & $N_t=N_0 + \mu (t +\frac{ln(e^{-\mu t} + e^{-h_0} - e^{-v\mu t -h_0}}{\mu}) - \frac{1}{m}ln(1 +\frac{e^{m\mu (t +\frac{ln(e^{-\mu t} + e^{-h_0} - e^{-v\mu t -h_0}}{\mu})} - 1}{e^{m(N_{max}-N_0)}})$ &4\\
+Buchanan & 
+\begin{tabular}[c]{@{}l@{}}If $t\leq\lambda \quad N_t=N_0$\\ 
+If $\lambda<t<t_{max} \quad    N_t=N_0+\mu(t-\lambda)$\\
+If $t\geq t_{max}   \quad N_t=N_0+\mu(t_{max}-\lambda)$
+\end{tabular}  & 4\\
+\hline
+\end{tabular}
+\end{table}
+There are 4 level 1 predictive models proposed in this study, the Logistic model, the Gompertz model, the Baranyi model, and the three-phase linear model\citep{Buchanan1997,Baranyi1994,Zwietering1875}. All these models do not consider the mortality phase and are used in their modified terms so that they contain biological relevant parameters. Therefore, these parameters can be calculated directly from the equation. Corresponding modified equations and the number of free parameters are listed in table~\ref{tab:Models}\citep{Baranyi1995}. In all the four models above, $N_{max}$ and $N_0$ are the natural logarithm of initial and maximum cell population/concentration, respectively. $\mu$ is the maximum specific growth rate. In this study, this is defined as the maximum slope of the growth curve. Parameter $t_{max}$ in the three-phase linear model is the t-axis when the growth curve reaches $N_{max}$. Finally, the lag time $\lambda$ has no uniquely defined duration since the transition from lag phase to exponential growth phase is continuous\citep{BATY2004261}. Usually, it is considered as the time to reach 50 or 100\% growth.\\
+
+In addition to these common parameters, the Baranyi model has two distinct curvature parameters, denoted as $m$ and $v$, which are used to characterize the transition from the exponential growth phase and the transition to the exponential growth phase respectively. During the NLLS fitting period of the project, these 2 parameters took suggested values $1$ and $\mu$ respectively\citep{Baranyi1993}. Accordingly, the number of parameters of the Baranyi model reduced to 4. Besides, the $h_0$ in the Baranyi model is a dimensionless parameter quantifying the initial physiological state of cells. It can be deduced from relation $\lambda = \frac{h_0}{\mu}$.\\
+
+
+
+
+\subsection{Model Fitting and Analysis}
+All the models were fitted using Non-linear Least Squares(NLLS). Each fitted object provided estimation of parameters and residual sum of squares. The 95CIs each fitting object was then calculated. The number of fits for each model was then recorded.\\
+
+There were 4 different model selection approaches were used to analyse how well each fit was: $R^2$, AIC, BIC, and AICc. $R^2$ is a relatively naive approach for model selection. Models with a maximum $R^2$ are considered as better models. However, this quantity always prefers models with a greater number of parameters. Since the four models have the same number of parameters and the total sum of squares is the same for each sub-data set, the residual sum of squares(RSS) was used as an alternate of $R^2$ for fitting analysis. The F-test, on the other hand, always requires models to have different numbers of parameters. With the same reason, the F-test was not used in this project.\\
+
+Unlike $RSS$, the model selection criteria consider both complexity and fit\citep{JOHNSON2004101}. Additionally, they allow simultaneous comparison of multiple models. 3 different criteria were used for model selection in this project. The Akaike information criterion(AIC) estimates the Kullerback-Leibler information\citep{mcelreath2016statistical}. The less information lost, the better the model. When the number of parameters exceeds $\frac{n}{40}$ where n is the sample size, a small sample unbiased AIC should be used\citep{JOHNSON2004101}. The Bayesian information criterion(BIC) is another model selection criterion that has a similar structure to AIC. Compared to AIC, BIC prefers simpler models as it contains a penalty term relevant to sample size.\\
+
+
+\subsection{Computing Tools}
+There were 3 computing tools used in this project. The project was constructed under the R version 3.6.1 and Python version 3.7.3.
+
+\subsubsection{Bash}
+Bash was used in this project to execute all relevant files in a single command line. Additionally, it was used to counting the word number in this report.
+\subsubsection{Python}
+In this project, Python was simply used as a script for data preparation instead of an Object-oriented Programming(OOP) language. The Python script was named as"DataPrep.py". Irrational records were removed from the original data set. Besides, a new column called "ID“ was added to identify each unique sub-data set. The natural logarithm of population size was calculated and sorted by the ascending order of time for future convenience. Finally, the modified data named "NewData.csv" was saved under the "Results" folder. After modification, the new data set contains 305 unique sub-datasets.
+\subsubsection{R}
+As the main language of this project, R was used for model fitting, calculating statistics and plotting. There were 3 primary packages used for fitting and analysis. R package "minpack.nls" was used in an R script called "Fitting.R" for fitting all the models into data. It provides an interface to address NLLS problems with the Levenberg-Maraquardt algorithm. Package "nlstools" was used to calculated confidence intervals for each fitting. Package "ggplot2" was used mainly in another separate script called "Plotting.R" for plotting the fitting results and statistics values. Once the new data set was generated, the fitting script read it and fitted all models and obtained corresponding fitting objects. Then the confidence intervals, AIC, BIC, AICc were calculated and saved in .csv files. Finally, the plotting script generated plots using previous results for further discussion and analysis.
+
+
+
+
+
+
+

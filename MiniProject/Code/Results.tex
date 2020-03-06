@@ -1,0 +1,124 @@
+
+\section{Results}
+After data preparation, both models were fitted into the microbial growth data composed of 305 unique sub-datasets. The number of growth data points in a sub-dataset ranges from 4 to 151 with a mean of 14. The number of convergence for each model is illustrated in fig.~\ref{fig:NumbersOfFits}. Among the 4 models, the three-phase linear model(Buchanan) had the lowest number of convergences which was 61. All other 3 models had a similar number of convergences(Logistic: 280, Gompertz: 281, Baranyi: 275). In order words, the Gompertz model had the highest fitting rate which is $92.1\%$. The Logistic model and the Baranyi model had fitting rates very close to the highest fitting rate($91.8\%$ and $90.1\%$ respectively). The 3 phase linear model only fitted into $20.0\%$ of data sets.
+
+\begin{figure}[H] %The "H" tells latex to put the figure after the previous line and before the next line no matter what.
+  \centering
+  \includegraphics[trim = 0 5mm 0 5mm, clip,width=0.5\textwidth]{../Results/Number_Fits.pdf}
+  \caption{Barplot of the number of convergence for each model.}
+  \label{fig:NumbersOfFits} 
+\end{figure}
+
+Among the 305 unique sub-datasets, $99.0\%$ of them were fitted by at least one model. There were three sub-datasets that were not fitted by any of the proposed models. It is shown in fig.~\ref{fig:Failures} that none of these 3  microbial growth data sets form an sigmoidal curve. Besides, by visually inspecting, it can be seen that the model(s) had a considerably good performance on a certain amount of the data sets which it(they) converged on. Here are some example shown in fig.~\ref{fig:Success}.
+
+\begin{figure}[H] %The "H" tells latex to put the figure after the previous line and before the next line no matter what.
+  \centering
+    \begin{subfigure}[h]{0.4\textwidth}
+        \includegraphics[ page = 59, width=\textwidth]{../Results/final_plots.pdf}
+        \caption{ID:59}
+        \label{fig:59}
+    \end{subfigure}
+    \hfill
+    \begin{subfigure}[h]{0.4\textwidth}
+        \includegraphics[page = 71, scale=0.35]{../Results/final_plots.pdf}
+        \caption{ID: 71}
+        \label{fig:71}
+    \end{subfigure}
+    \hfill
+    \begin{subfigure}[h]{0.4\textwidth}
+    \includegraphics[page = 130, scale=0.35]{../Results/final_plots.pdf}
+    \caption{ID :130}
+    \label{fig:130}
+    \end{subfigure}
+  \caption{sub-data sets which did not fit to any of the models.}
+  \label{fig:Failures} 
+\end{figure}
+
+\begin{figure}[H] %The "H" tells latex to put the figure after the previous line and before the next line no matter what.
+  \centering
+    \begin{subfigure}[h]{0.4\textwidth}
+        \includegraphics[ page = 15, width=\textwidth]{../Results/final_plots.pdf}
+        \caption{ID: 15, Species: Acinetobacter.clacoaceticus..RDA.R., Temperature: 15, Medium: TSB}
+        \label{fig:59}
+    \end{subfigure}
+    \hfill
+    \begin{subfigure}[h]{0.4\textwidth}
+        \includegraphics[page = 137, scale=0.35]{../Results/final_plots.pdf}
+        \caption{ID: 137, Species: Acinetobacter.clacoaceticus.1, Temperature: 5, Medium: TSB}
+        \label{fig:71}
+    \end{subfigure}
+    \hfill
+    \begin{subfigure}[h]{0.4\textwidth}
+    \includegraphics[page = 22, scale=0.35]{../Results/final_plots.pdf}
+    \caption{ID : 22, Species: Acinetobacter.clacoaceticus..RDA.R., Temperature: 2, Medium: TSB}
+    \label{fig:130}
+    \end{subfigure}
+    \hfill
+    \begin{subfigure}[h]{0.4\textwidth}
+    \includegraphics[page = 161, scale=0.35]{../Results/final_plots.pdf}
+    \caption{ID : 161, Species: Pantoea.agglomerans, Temperature: 5, Medium: TSB}
+    \label{fig:130}
+    \end{subfigure}
+    \hfill
+  \caption{Successful fitting examples.}
+  \label{fig:Success} 
+\end{figure}
+
+\subsection{Model Selections Using RSS, AIC, BIC and AICc}
+To determine which model(s) best fits the microbial growth data, RSS, AIC, BIC and AICc were calculated and plotted for each successful fittings respectively. Among the four model selection approaches, the RSS of each fitting was obtained directly from the nls fitting object. AIC, BIC, and AICc were calculated by calling AIC(), BIC() and AICc() respectively. A small RSS/AIC/BIC/AICc value indicates a tight fit of a model to the data. Thus, the model with the smallest statistical value was chosen to be the best model of a specific data set under each model selection criterion. Barplots in fig.~\ref{fig:SmallValues} demonstrates the total amount of having the smallest value for each model using different model selection approaches. When RSS, AIC or BIC was used as a model selection approach, although these 
+\begin{figure}[H]
+    \centering
+    \begin{subfigure}[h]{0.4\textwidth}
+        \includegraphics[width=\textwidth]{../Results/Best_RSS.pdf}
+        \caption{Barplot of times of having the smallest RSS/BIC/AIC for each model.}
+        \label{fig:BestRSS}
+    \end{subfigure}
+    \hfill
+    \begin{subfigure}[h]{0.4\textwidth}
+        \includegraphics[scale=0.35]{../Results/Smallest_AICc.pdf}
+        \caption{Barplot of times of having the smallest AICc for each model.}
+        \label{fig:SmallAICc}
+    \end{subfigure}
+     \caption{Barplots of times of having the smallest value of different model selection approaches for each model.} 
+     \label{fig:SmallValues}
+\end{figure}
+three approaches gave different statistical values, the amount of number of having the smallest value for each model was identical. It can be concluded from the barplot in fig.~\ref{fig:BestRSS} that the rank of fitness of models under RSS/AIC/BIC is: Gompertz $>$ Baranyi $>$ Logistic $>$ Buchanan. When using AICc as model selection method, even though the least values of each model is sightly different from those when using the former approaches, the rank of how good models fit to microbial growth data set are consistent with the previous rank. Table~\ref{tab:TRS} lists the detailed number for each model under each model selection approach.
+
+\begin{table}[H]
+\centering
+\caption{Models with their numbers of least values under different approaches}
+\label{tab:TRS}
+\begin{tabular}{@{}lllll@{}}
+\hline
+\begin{tabular}[c]{@{}l@{}}Approach\end{tabular}&Logistic&Gompertz&Baranyi&Buchanan\\ 
+\hline
+RSS & 42 & 128 & 108 & 24 \\
+AIC & 42 & 128 & 108 & 24 \\
+BIC & 42 & 128 & 108 & 24\\
+AICc & 35 & 121 & 99 & 21\\
+\hline
+\end{tabular}
+\end{table}
+
+For methods other than RSS, not only the number of having the smallest values was recorded but also the difference between the smallest values for each unique "data set - approach" pair was calculated. The statistical threshold was set to 2. Model(s) which had a difference between the least value and its AIC/BIC/AICc score less than 2 were considered as the "best" model(s). It is shown in fig.~\ref{fig:BestAiCc} that there were 194 data sets where all models were fitted tightly to the data using AIC or BIC. The same statistical value when using AICc is 184.  
+
+\begin{figure}[H]
+    \centering
+    \begin{subfigure}[h]{0.4\textwidth}
+        \includegraphics[width=\textwidth]{../Results/Best_AIC.pdf}
+        \caption{Barplot of times of having the best /BIC/AIC for each model/group of models.}
+        \label{fig:BestRSS}
+    \end{subfigure}
+    \hfill
+    \begin{subfigure}[h]{0.4\textwidth}
+        \includegraphics[scale=0.35]{../Results/Best_AICc.pdf}
+        \caption{Barplot of times of having the best AICc for each model/group of models.}
+        \label{fig:SmallAICc}
+    \end{subfigure}
+     \caption{Models are abbreviated by their first capital letter. Special case: A represents all the models, B represents Baranyi model and b represents Buchanan model.} 
+     \label{fig:BestAICc}
+\end{figure}
+
+
+
+

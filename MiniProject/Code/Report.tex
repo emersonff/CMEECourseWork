@@ -1,25 +1,53 @@
-\documentclass[12pt]{article}
-\title{A Simple Document}
-\author{xiang}
-\date{}
+\documentclass[a4paper,11pt]{article}
+\usepackage[left=2cm,right=2cm,top=2cm,bottom=3cm]{geometry}
+\usepackage{lineno}
+\linenumbers %show line numbers
+%\geometry{a4} 
+\include{preamble}
+%
+\title{\LARGE {Identify What Mathematical Model Best Fits an Empirical Bacteria Growth Data}\\
+ \vspace*{6mm}}
+
+\author{Xiang Li \\CID: 01606449 \\ Email: \href{mailto:xiang.li419@imperial.ac.uk}{xiang.li419@imperial.ac.uk}}
 \begin{document}
-  \maketitle
+\pagestyle{fancy}
+\maketitle %insert the title and author
 
-  \begin{abstract}
-    This paper must be cool!
-  \end{abstract}
 
-  \section{Introduction}
-    Blah Blah!
+%\pagenumbering{roman}
+\setcounter{page}{2}
 
-  \section{Materials \& Methods}
-  One of the most famous equations is:
-  \begin{equation}
-    E = mc^2
-  \end{equation}
-  This equation was first proposed by Einstein in 1905 
-  \cite{einstein1905does}.
+\include{Abstract}
+\include{Nomenclature}
+\pagestyle{plain}
 
-  \bibliographystyle{plain}
-  \bibliography{FirstBiblio}
+\tableofcontents
+\newpage
+%\listoftables
+%\listoffigures
+\printnomenclature
+\pagebreak
+
+\fancyhead[L]{\leftmark}
+\fancyhead[C]{}
+\fancyhead[R]{}
+\fancyfoot[C]{\thepage}
+\thispagestyle{empty}
+\pagestyle{fancy}
+
+
+\doublespacing
+%\clearpage
+
+\input{Introduction}
+\input{Methods}
+\input{Results}
+\input{Discussion}
+
+%\addcontentsline{toc}{section}{References}
+%\renewcommand\bibname{References}
+%\printbibliography
+\bibliographystyle{plainnat} % author name-year citations
+\bibliography{References}
+\appendix
 \end{document}

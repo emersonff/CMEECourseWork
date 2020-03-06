@@ -1,0 +1,87 @@
+\makeatletter
+%\if@titlepage
+%\titlepic{\includegraphics[width=0.30\textwidth]{C0/Figs/Imperial_College_London_crest}}
+\renewcommand\maketitle{
+    \begin{titlepage}%
+    \begin{center}
+        \let\footnotesize\small
+        \let\footnoterule\relax
+        \let \footnote \thanks
+        \Large\sf Imperial College London \\
+            %\linebreak
+            Department of Life Sciences
+            \rm
+            \vskip 2in
+        %
+            {\LARGE \sf\textbf{\@title} \par}%
+            \vskip 3em% %% Change this space if you wish
+            {\large
+                \lineskip .75em%
+                \begin{tabular}[t]{c}%
+                \LARGE\sf\@author
+                \end{tabular}\par%
+            }%
+            \vskip 3em
+            \begin{flushright}
+	\Large Approximate Word Count: 2623 %% insert approx word count
+\end{flushright}
+         \@tpsepspace% %% uncomment if you need space.
+%         \@titlepic
+
+            \vskip 10em
+            \vskip 4em%   %% Change this space if you wish
+            
+          \sf Submitted in part fulfilment of the requirements
+          \linebreak
+          for the degree of Master of Science at
+          \linebreak
+          Imperial College London, March 2020
+          \vfil
+          \end{center}
+    \end{titlepage}%
+%    \setcounter{footnote}{0}%
+%    \global\let\thanks\relax
+%    \global\let\maketitle\relax
+%    \global\let\@thanks\@empty
+%    \global\let\@author\@empty
+%    \global\let\@date\@empty
+%    \global\let\@title\@empty
+%    \global\let\@titlepic\@empty
+%    \global\let\title\relax
+%    \global\let\author\relax
+%    \global\let\date\relax
+%    \global\let\and\relax
+%    \global\let\titlepic\relax
+}
+%\fi
+\makeatother
+\makenomenclature
+%\RequirePackage[intoc]{nomencl}
+%\makenomenclature
+%\renewcommand{\nomgroup}[1]{%
+%\ifthenelse{\equal{#1}{A}}{\item[\textbf{Roman Symbols}]}{%
+%\ifthenelse{\equal{#1}{G}}{\item[\textbf{Greek Symbols}]}{%
+%\ifthenelse{\equal{#1}{Z}}{\item[\textbf{Acronyms / Abbreviations}]}{%
+%\ifthenelse{\equal{#1}{R}}{\item[\textbf{Superscripts}]}{%
+%\ifthenelse{\equal{#1}{S}}{\item[\textbf{Subscripts}]}{%
+%\ifthenelse{\equal{#1}{X}}{\item[\textbf{Other Symbols}]}
+%{}
+%}% matches mathematical symbols > X
+%}% matches Subscripts           > S
+%}% matches Superscripts         > R
+%}% matches Abbreviations        > Z
+%}% matches Greek Symbols        > G
+%}% matches Roman Symbols        > A
+\def\abstract{
+  \begin{center}{
+    \large\bf Abstract}
+  \end{center}
+  \small
+  %\def\baselinestretch{1.5}
+  \linespread{2}
+  \normalsize
+}
+\def\endabstract{
+  \par
+}
+

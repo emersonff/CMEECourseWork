@@ -1,0 +1,18 @@
+
+
+\section{Discussion}
+ In this study, there were 305 data sets in total. As mentioned in the above section, the Logistic model, the Gompertz model, and the Baranyi model had a fitting rate of over $90\%$(Logistic: $91.8\%$, Gompertz: $92.1\%$, Baranyi: $90.1\%$). On the other hand, the three-phase linear model only had a fitting of $20\%$. When using RSS/AIC/BIC, the proportions of best fits among their successful fits were $15.0\%$, $45.6\%$, $39.3\%$ and $39.3\%$, respectively. Similarly, when using AICc as a model selection approach, they became $12.5\%$, $43.0\%$, $36.0\%$ and $34.4\%$.
+ 
+ Since the mean number of data points in a sub-dataset was 14, which was greater than the number of free parameters of all the models, It was suggested that using the second derivative of AIC, AICc, for model selection along with RSS\citep{JOHNSON2004101}. Considering the statistical threshold of AICc, only differences in AICc scores greater than 2 were considered as statistically significant. It can be derived that over $63.6\%$ of the data sets accepted all successfully fitted models to them as the "best" models.
+ 
+ Among the four models, only the Baranyi model is considered to be in the field of mechanistic models, as only this model is commonly used in the field of microbiology. Using the results of this project, one cannot infer whether mechanistic models fit betters than empirical models. However, it can be concluded using RSS and AICc that among the four models proposed in this project, the Modified Gompertz model best fits the empirical bacteria growth data set collected form previous published works. It had the highest successful fitting rate and the highest best fitting rate in both model selection approaches. The Baranyi model and the Logistic model also had considerable good performance with a successful fitting rate of over $90\%$. The three-phase Buchanan model only fitted 61 data sets. It was partially because the model assumed that the specific growth phase during the exponential growth phase was constant\citep{Buchanan1997}.
+ 
+ 
+ \section{Conclusion}
+The objective of this project is to determine which model(s) among the Logistic model, the Baranyi model, the Gompertz model, and the Buchanan model best fit(s) microbial growth data. Data used in this project were solely from previously published journals. All the models were modified to contains biological relevant parameters to alleviate the process of estimating starting values. the models were fitted into the data using the NLLS method. the R language was mainly used for modelling fitting and analysis. Statistical values including RSS, AIC, BIC, AICc were calculated. Since the average number of data points in a sub-dataset is 14, RSS and AICc were accepted as model selection approaches. It can be concluded from the experimental results that the modified Gompertz model best fitted the microbial growth data used in this project.
+
+\section{Code and Data Availability}
+To see all scripts and data used in this project as well as generated plottings, please visit \href{https://github.com/emersonff/CMEECourseWork.git}{github}.
+
+
+
