@@ -2,7 +2,7 @@
 #simple script to complie latex with bibtex
 pdflatex $1.tex
 pdflatex $1.tex
-bibtex $1
+bibtex References
 pdflatex $1.tex
 pdflatex $1.tex
 evince $1.pdf &
