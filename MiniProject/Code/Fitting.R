@@ -1,7 +1,7 @@
 #Author: Xiang Li(xiang.li419@imperial.ac.uk)
 library(minpack.lm)
 library(dplyr)
-library(nlstools)# using nlstools::confint2 to calculate confidence intervals
+#library(nlstools)# using nlstools::confint2 to calculate confidence intervals
 library(MuMIn) # calculate AICc
 rm(list = ls())#clear workspace
 

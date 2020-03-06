@@ -12,7 +12,6 @@ AIC <- read.csv("../Results/AIC.csv", header = T)
 AICc <- read.csv("../Results/AICc.csv", header = T)
 BIC <- read.csv("../Results/BIC.csv", header = T)
 abbr <- c("A","B", "Bb", "b", "G", "GB", "L", "LB", "LG", "LGB", "LGBb")# abbrivation for model names
-temp <- data.frame(ID = seq(length(dID)),Length = n )
 
 ### plotting number of successful fits of each model
 temd <- data.frame(Model = c("Logistic", "Gompertz", "Baranyi", "Buchanan"),
