@@ -15,4 +15,4 @@ echo "Running Plotting.R..."
 Rscript Plotting.R
 echo
 echo "Compling tex file..."
-sh CompileLaTex.sh Report
+sh CompileLaTeX.sh Report
