@@ -17,3 +17,4 @@ rm *.snm
 rm *.toc
 rm *.bbl
 rm *.blg
+rm *.nlo
