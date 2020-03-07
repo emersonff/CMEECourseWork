@@ -6,7 +6,7 @@ else
 f=`basename $1 |cut -f 1 -d "."`
 pdflatex $f
 pdflatex $f
-biber References
+bibtex $f
 pdflatex $f
 pdflatex $f
 #move to Results
@@ -27,4 +27,7 @@ rm *.toc
 rm *.bbl
 rm *.blg
 rm *.pdf
+rm *.lof
+rm *.lot
+rm *.nlo
 fi
