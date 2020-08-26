@@ -1,0 +1,3 @@
+#Enter command 
+zip -s- FILE_NAME.zip -O COMBINED_FILE.zip
+#Enter unzip COMBINED_FILE.zip

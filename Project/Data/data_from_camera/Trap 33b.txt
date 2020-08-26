@@ -1,0 +1,343 @@
+Photo;Date and Time;Exp. Time;F/Stop;Exp. Program;Exp. Bias;Metering Mode;Light Source;Flash;Focal Length;Focal Length (35 mm);ISO Speed;Orientation;Dimensions;File Size;Path;Tags
+
+IMG_0001;26/04/2018  16:32:42;1/52;-;-;-;-;-;Not fired, auto mode;-;-;200;-;2048 x 1536;628 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0001.JPG;placeID: 33;species1: Human
+IMG_0002;26/04/2018  16:32:44;1/40;-;-;-;-;-;Not fired, auto mode;-;-;200;-;2048 x 1536;498 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0002.JPG;placeID: 33;species1: Human
+IMG_0003;26/04/2018  16:32:45;1/33;-;-;-;-;-;Not fired, auto mode;-;-;200;-;2048 x 1536;514 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0003.JPG;placeID: 33;species1: Human
+IMG_0004;26/04/2018  16:32:46;1/33;-;-;-;-;-;Not fired, auto mode;-;-;200;-;2048 x 1536;553 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0004.JPG;placeID: 33;species1: Human
+IMG_0005;26/04/2018  16:32:47;1/33;-;-;-;-;-;Not fired, auto mode;-;-;200;-;2048 x 1536;578 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0005.JPG;placeID: 33;species1: Human
+IMG_0006;26/04/2018  16:32:48;1/33;-;-;-;-;-;Not fired, auto mode;-;-;200;-;2048 x 1536;560 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0006.JPG;placeID: 33;species1: Human
+IMG_0008;26/04/2018  16:32:49;1/33;-;-;-;-;-;Not fired, auto mode;-;-;200;-;2048 x 1536;518 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0008.JPG;placeID: 33;species1: Human
+IMG_0007;26/04/2018  16:32:49;1/33;-;-;-;-;-;Not fired, auto mode;-;-;200;-;2048 x 1536;607 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0007.JPG;placeID: 33;species1: Human
+IMG_0009;26/04/2018  16:32:50;1/30;-;-;-;-;-;Not fired, auto mode;-;-;250;-;2048 x 1536;558 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0009.JPG;placeID: 33;species1: Human
+IMG_0010;26/04/2018  16:32:52;1/38;-;-;-;-;-;Not fired, auto mode;-;-;200;-;2048 x 1536;671 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0010.JPG;placeID: 33
+IMG_0011;26/04/2018  16:32:57;1/39;-;-;-;-;-;Not fired, auto mode;-;-;200;-;2048 x 1536;668 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0011.JPG;placeID: 33
+IMG_0012;26/04/2018  16:32:58;1/39;-;-;-;-;-;Not fired, auto mode;-;-;200;-;2048 x 1536;668 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0012.JPG;placeID: 33
+IMG_0013;26/04/2018  16:32:59;1/39;-;-;-;-;-;Not fired, auto mode;-;-;200;-;2048 x 1536;667 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0013.JPG;placeID: 33
+IMG_0014;26/04/2018  16:33:00;1/39;-;-;-;-;-;Not fired, auto mode;-;-;200;-;2048 x 1536;668 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0014.JPG;placeID: 33
+IMG_0015;26/04/2018  16:33:01;1/39;-;-;-;-;-;Not fired, auto mode;-;-;200;-;2048 x 1536;667 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0015.JPG;placeID: 33
+IMG_0017;26/04/2018  16:33:02;1/39;-;-;-;-;-;Not fired, auto mode;-;-;200;-;2048 x 1536;669 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0017.JPG;placeID: 33
+IMG_0016;26/04/2018  16:33:02;1/39;-;-;-;-;-;Not fired, auto mode;-;-;200;-;2048 x 1536;667 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0016.JPG;placeID: 33
+IMG_0018;26/04/2018  16:33:03;1/39;-;-;-;-;-;Not fired, auto mode;-;-;200;-;2048 x 1536;666 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0018.JPG;placeID: 33
+IMG_0019;26/04/2018  16:33:04;1/39;-;-;-;-;-;Not fired, auto mode;-;-;200;-;2048 x 1536;664 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0019.JPG;placeID: 33
+IMG_0020;26/04/2018  16:33:05;1/39;-;-;-;-;-;Not fired, auto mode;-;-;200;-;2048 x 1536;668 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0020.JPG;placeID: 33
+IMG_0021;26/04/2018  16:33:09;1/41;-;-;-;-;-;Not fired, auto mode;-;-;200;-;2048 x 1536;629 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0021.JPG;placeID: 33;species1: Human
+IMG_0023;26/04/2018  16:33:10;1/41;-;-;-;-;-;Not fired, auto mode;-;-;200;-;2048 x 1536;606 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0023.JPG;placeID: 33;species1: Human
+IMG_0022;26/04/2018  16:33:10;1/41;-;-;-;-;-;Not fired, auto mode;-;-;200;-;2048 x 1536;616 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0022.JPG;placeID: 33;species1: Human
+IMG_0024;26/04/2018  16:33:11;1/41;-;-;-;-;-;Not fired, auto mode;-;-;200;-;2048 x 1536;608 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0024.JPG;placeID: 33;species1: Human
+IMG_0025;26/04/2018  16:33:12;1/41;-;-;-;-;-;Not fired, auto mode;-;-;200;-;2048 x 1536;580 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0025.JPG;placeID: 33;species1: Human
+IMG_0026;26/04/2018  16:33:13;1/35;-;-;-;-;-;Not fired, auto mode;-;-;200;-;2048 x 1536;623 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0026.JPG;placeID: 33;species1: Human
+IMG_0027;26/04/2018  16:33:14;1/35;-;-;-;-;-;Not fired, auto mode;-;-;200;-;2048 x 1536;618 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0027.JPG;placeID: 33;species1: Human
+IMG_0028;26/04/2018  16:33:15;1/35;-;-;-;-;-;Not fired, auto mode;-;-;200;-;2048 x 1536;622 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0028.JPG;placeID: 33;species1: Human
+IMG_0029;26/04/2018  16:33:16;1/35;-;-;-;-;-;Not fired, auto mode;-;-;200;-;2048 x 1536;624 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0029.JPG;placeID: 33;species1: Human
+IMG_0030;26/04/2018  16:33:17;1/35;-;-;-;-;-;Not fired, auto mode;-;-;200;-;2048 x 1536;621 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0030.JPG;placeID: 33;species1: Human
+IMG_0031;26/04/2018  16:33:22;1/34;-;-;-;-;-;Not fired, auto mode;-;-;200;-;2048 x 1536;554 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0031.JPG;contact2;placeID: 33;species1: Human;species2: Human
+IMG_0032;26/04/2018  16:33:23;1/30;-;-;-;-;-;Not fired, auto mode;-;-;200;-;2048 x 1536;544 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0032.JPG;placeID: 33;species1: Human;species2: Human
+IMG_0033;26/04/2018  16:33:24;1/30;-;-;-;-;-;Not fired, auto mode;-;-;200;-;2048 x 1536;597 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0033.JPG;placeID: 33;species1: Human;species2: Human
+IMG_0034;26/04/2018  16:33:25;1/30;-;-;-;-;-;Not fired, auto mode;-;-;200;-;2048 x 1536;611 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0034.JPG;placeID: 33;species1: Human;species2: Human
+IMG_0036;26/04/2018  16:33:26;1/30;-;-;-;-;-;Not fired, auto mode;-;-;200;-;2048 x 1536;611 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0036.JPG;placeID: 33;species1: Human
+IMG_0035;26/04/2018  16:33:26;1/30;-;-;-;-;-;Not fired, auto mode;-;-;200;-;2048 x 1536;616 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0035.JPG;placeID: 33;species1: Human
+IMG_0037;26/04/2018  16:33:27;1/30;-;-;-;-;-;Not fired, auto mode;-;-;200;-;2048 x 1536;556 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0037.JPG;placeID: 33;species1: Human
+IMG_0038;26/04/2018  16:33:28;1/37;-;-;-;-;-;Not fired, auto mode;-;-;200;-;2048 x 1536;676 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0038.JPG;placeID: 33
+IMG_0039;26/04/2018  16:33:29;1/37;-;-;-;-;-;Not fired, auto mode;-;-;200;-;2048 x 1536;674 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0039.JPG;placeID: 33
+IMG_0040;26/04/2018  16:33:30;1/37;-;-;-;-;-;Not fired, auto mode;-;-;200;-;2048 x 1536;675 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0040.JPG;placeID: 33
+IMG_0041;26/04/2018  21:00:04;1/30;-;-;-;-;-;Flash fired, auto mode;-;-;500;-;2048 x 1536;424 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0041.JPG;contact1;placeID: 33;species1: Fox
+IMG_0042;26/04/2018  21:00:06;1/30;-;-;-;-;-;Flash fired, auto mode;-;-;500;-;2048 x 1536;434 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0042.JPG;placeID: 33;species1: Fox
+IMG_0043;26/04/2018  21:00:07;1/30;-;-;-;-;-;Flash fired, auto mode;-;-;500;-;2048 x 1536;436 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0043.JPG;placeID: 33
+IMG_0044;26/04/2018  21:00:08;1/30;-;-;-;-;-;Flash fired, auto mode;-;-;500;-;2048 x 1536;436 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0044.JPG;placeID: 33
+IMG_0046;26/04/2018  21:00:09;1/30;-;-;-;-;-;Flash fired, auto mode;-;-;500;-;2048 x 1536;436 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0046.JPG;placeID: 33
+IMG_0045;26/04/2018  21:00:09;1/30;-;-;-;-;-;Flash fired, auto mode;-;-;500;-;2048 x 1536;436 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0045.JPG;placeID: 33
+IMG_0047;26/04/2018  21:00:10;1/30;-;-;-;-;-;Flash fired, auto mode;-;-;500;-;2048 x 1536;435 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0047.JPG;placeID: 33
+IMG_0048;26/04/2018  21:00:11;1/30;-;-;-;-;-;Flash fired, auto mode;-;-;500;-;2048 x 1536;435 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0048.JPG;placeID: 33
+IMG_0049;26/04/2018  21:00:12;1/30;-;-;-;-;-;Flash fired, auto mode;-;-;500;-;2048 x 1536;435 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0049.JPG;placeID: 33
+IMG_0050;26/04/2018  21:00:13;1/30;-;-;-;-;-;Flash fired, auto mode;-;-;500;-;2048 x 1536;436 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0050.JPG;placeID: 33
+IMG_0051;26/04/2018  21:00:23;1/30;-;-;-;-;-;Flash fired, auto mode;-;-;500;-;2048 x 1536;428 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0051.JPG;contact1;placeID: 33;species1: Fox
+IMG_0052;26/04/2018  21:00:24;1/30;-;-;-;-;-;Flash fired, auto mode;-;-;500;-;2048 x 1536;435 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0052.JPG;placeID: 33;species1: Fox
+IMG_0053;26/04/2018  21:00:25;1/30;-;-;-;-;-;Flash fired, auto mode;-;-;500;-;2048 x 1536;436 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0053.JPG;placeID: 33;species1: Fox
+IMG_0054;26/04/2018  21:00:26;1/30;-;-;-;-;-;Flash fired, auto mode;-;-;500;-;2048 x 1536;436 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0054.JPG;placeID: 33;species1: Fox
+IMG_0055;26/04/2018  21:00:27;1/30;-;-;-;-;-;Flash fired, auto mode;-;-;500;-;2048 x 1536;436 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0055.JPG;placeID: 33;species1: Fox
+IMG_0057;26/04/2018  21:00:28;1/30;-;-;-;-;-;Flash fired, auto mode;-;-;500;-;2048 x 1536;436 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0057.JPG;placeID: 33;species1: Fox
+IMG_0056;26/04/2018  21:00:28;1/30;-;-;-;-;-;Flash fired, auto mode;-;-;500;-;2048 x 1536;437 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0056.JPG;placeID: 33;species1: Fox
+IMG_0058;26/04/2018  21:00:29;1/30;-;-;-;-;-;Flash fired, auto mode;-;-;500;-;2048 x 1536;437 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0058.JPG;placeID: 33;species1: Fox
+IMG_0059;26/04/2018  21:00:30;1/30;-;-;-;-;-;Flash fired, auto mode;-;-;500;-;2048 x 1536;437 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0059.JPG;placeID: 33;species1: Fox
+IMG_0060;26/04/2018  21:00:31;1/30;-;-;-;-;-;Flash fired, auto mode;-;-;500;-;2048 x 1536;434 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0060.JPG;placeID: 33;species1: Fox
+IMG_0061;26/04/2018  21:00:32;1/30;-;-;-;-;-;Flash fired, auto mode;-;-;400;-;2048 x 1536;390 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0061.JPG;placeID: 33;species1: Fox
+IMG_0062;26/04/2018  21:00:34;1/30;-;-;-;-;-;Flash fired, auto mode;-;-;400;-;2048 x 1536;401 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0062.JPG;placeID: 33;species1: Fox
+IMG_0064;26/04/2018  21:00:35;1/30;-;-;-;-;-;Flash fired, auto mode;-;-;400;-;2048 x 1536;401 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0064.JPG;placeID: 33;species1: Fox
+IMG_0063;26/04/2018  21:00:35;1/30;-;-;-;-;-;Flash fired, auto mode;-;-;400;-;2048 x 1536;401 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0063.JPG;placeID: 33;species1: Fox
+IMG_0065;26/04/2018  21:00:36;1/30;-;-;-;-;-;Flash fired, auto mode;-;-;400;-;2048 x 1536;398 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0065.JPG;placeID: 33;species1: Fox
+IMG_0067;26/04/2018  21:00:37;1/30;-;-;-;-;-;Flash fired, auto mode;-;-;400;-;2048 x 1536;397 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0067.JPG;placeID: 33;species1: Fox
+IMG_0066;26/04/2018  21:00:37;1/30;-;-;-;-;-;Flash fired, auto mode;-;-;400;-;2048 x 1536;401 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0066.JPG;placeID: 33;species1: Fox
+IMG_0068;26/04/2018  21:00:38;1/30;-;-;-;-;-;Flash fired, auto mode;-;-;320;-;2048 x 1536;366 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0068.JPG;placeID: 33;species1: Fox
+IMG_0069;26/04/2018  21:00:39;1/30;-;-;-;-;-;Flash fired, auto mode;-;-;320;-;2048 x 1536;350 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0069.JPG;placeID: 33;species1: Fox
+IMG_0070;26/04/2018  21:00:40;1/30;-;-;-;-;-;Flash fired, auto mode;-;-;320;-;2048 x 1536;355 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0070.JPG;placeID: 33;species1: Fox
+IMG_0071;26/04/2018  21:00:43;1/30;-;-;-;-;-;Flash fired, auto mode;-;-;320;-;2048 x 1536;352 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0071.JPG;placeID: 33;species1: Fox
+IMG_0072;26/04/2018  21:00:44;1/30;-;-;-;-;-;Flash fired, auto mode;-;-;320;-;2048 x 1536;355 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0072.JPG;placeID: 33;species1: Fox
+IMG_0074;26/04/2018  21:00:45;1/30;-;-;-;-;-;Flash fired, auto mode;-;-;320;-;2048 x 1536;354 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0074.JPG;placeID: 33;species1: Fox
+IMG_0073;26/04/2018  21:00:45;1/30;-;-;-;-;-;Flash fired, auto mode;-;-;320;-;2048 x 1536;355 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0073.JPG;placeID: 33;species1: Fox
+IMG_0075;26/04/2018  21:00:46;1/30;-;-;-;-;-;Flash fired, auto mode;-;-;400;-;2048 x 1536;383 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0075.JPG;placeID: 33;species1: Fox
+IMG_0076;26/04/2018  21:00:47;1/30;-;-;-;-;-;Flash fired, auto mode;-;-;400;-;2048 x 1536;389 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0076.JPG;placeID: 33;species1: Fox
+IMG_0077;26/04/2018  21:00:47;1/30;-;-;-;-;-;Flash fired, auto mode;-;-;400;-;2048 x 1536;389 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0077.JPG;placeID: 33;species1: Fox
+IMG_0078;26/04/2018  21:00:48;1/30;-;-;-;-;-;Flash fired, auto mode;-;-;400;-;2048 x 1536;389 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0078.JPG;placeID: 33;species1: Fox
+IMG_0080;26/04/2018  21:00:49;1/30;-;-;-;-;-;Flash fired, auto mode;-;-;400;-;2048 x 1536;390 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0080.JPG;placeID: 33;species1: Fox
+IMG_0079;26/04/2018  21:00:49;1/30;-;-;-;-;-;Flash fired, auto mode;-;-;400;-;2048 x 1536;389 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0079.JPG;placeID: 33;species1: Fox
+IMG_0081;26/04/2018  21:00:53;1/30;-;-;-;-;-;Flash fired, auto mode;-;-;500;-;2048 x 1536;404 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0081.JPG;placeID: 33;species1: Fox
+IMG_0083;26/04/2018  21:00:55;1/30;-;-;-;-;-;Flash fired, auto mode;-;-;500;-;2048 x 1536;416 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0083.JPG;placeID: 33;species1: Fox
+IMG_0082;26/04/2018  21:00:55;1/30;-;-;-;-;-;Flash fired, auto mode;-;-;500;-;2048 x 1536;416 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0082.JPG;placeID: 33;species1: Fox
+IMG_0084;26/04/2018  21:00:56;1/30;-;-;-;-;-;Flash fired, auto mode;-;-;500;-;2048 x 1536;416 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0084.JPG;placeID: 33;species1: Fox
+IMG_0085;26/04/2018  21:00:57;1/30;-;-;-;-;-;Flash fired, auto mode;-;-;500;-;2048 x 1536;415 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0085.JPG;placeID: 33;species1: Fox
+IMG_0086;26/04/2018  21:00:58;1/30;-;-;-;-;-;Flash fired, auto mode;-;-;500;-;2048 x 1536;414 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0086.JPG;placeID: 33;species1: Fox
+IMG_0088;26/04/2018  21:00:59;1/30;-;-;-;-;-;Flash fired, auto mode;-;-;500;-;2048 x 1536;415 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0088.JPG;placeID: 33;species1: Fox
+IMG_0087;26/04/2018  21:00:59;1/30;-;-;-;-;-;Flash fired, auto mode;-;-;500;-;2048 x 1536;414 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0087.JPG;placeID: 33;species1: Fox
+IMG_0089;26/04/2018  21:01:00;1/30;-;-;-;-;-;Flash fired, auto mode;-;-;400;-;2048 x 1536;377 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0089.JPG;placeID: 33;species1: Fox
+IMG_0090;26/04/2018  21:01:01;1/30;-;-;-;-;-;Flash fired, auto mode;-;-;500;-;2048 x 1536;406 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0090.JPG;placeID: 33;species1: Fox
+IMG_0091;26/04/2018  21:01:03;1/30;-;-;-;-;-;Flash fired, auto mode;-;-;500;-;2048 x 1536;412 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0091.JPG;placeID: 33;species1: Fox
+IMG_0092;26/04/2018  21:01:04;1/30;-;-;-;-;-;Flash fired, auto mode;-;-;500;-;2048 x 1536;418 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0092.JPG;placeID: 33;species1: Fox
+IMG_0094;26/04/2018  21:01:05;1/30;-;-;-;-;-;Flash fired, auto mode;-;-;500;-;2048 x 1536;418 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0094.JPG;placeID: 33;species1: Fox
+IMG_0093;26/04/2018  21:01:05;1/30;-;-;-;-;-;Flash fired, auto mode;-;-;500;-;2048 x 1536;418 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0093.JPG;placeID: 33;species1: Fox
+IMG_0095;26/04/2018  21:01:06;1/30;-;-;-;-;-;Flash fired, auto mode;-;-;500;-;2048 x 1536;419 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0095.JPG;placeID: 33;species1: Fox
+IMG_0096;26/04/2018  21:01:07;1/30;-;-;-;-;-;Flash fired, auto mode;-;-;400;-;2048 x 1536;380 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0096.JPG;placeID: 33;species1: Fox
+IMG_0097;26/04/2018  21:01:08;1/30;-;-;-;-;-;Flash fired, auto mode;-;-;400;-;2048 x 1536;387 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0097.JPG;placeID: 33;species1: Fox
+IMG_0098;26/04/2018  21:01:09;1/30;-;-;-;-;-;Flash fired, auto mode;-;-;400;-;2048 x 1536;391 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0098.JPG;placeID: 33;species1: Fox
+IMG_0100;26/04/2018  21:01:10;1/30;-;-;-;-;-;Flash fired, auto mode;-;-;400;-;2048 x 1536;388 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0100.JPG;placeID: 33;species1: Fox
+IMG_0099;26/04/2018  21:01:10;1/30;-;-;-;-;-;Flash fired, auto mode;-;-;400;-;2048 x 1536;391 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0099.JPG;placeID: 33;species1: Fox
+IMG_0101;26/04/2018  21:01:42;1/30;-;-;-;-;-;Flash fired, auto mode;-;-;400;-;2048 x 1536;374 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0101.JPG;placeID: 33;species1: Fox
+IMG_0102;26/04/2018  21:01:44;1/30;-;-;-;-;-;Flash fired, auto mode;-;-;250;-;2048 x 1536;341 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0102.JPG;placeID: 33;species1: Fox
+IMG_0104;26/04/2018  21:01:46;1/30;-;-;-;-;-;Flash fired, auto mode;-;-;200;-;2048 x 1536;312 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0104.JPG;placeID: 33;species1: Fox
+IMG_0103;26/04/2018  21:01:46;1/30;-;-;-;-;-;Flash fired, auto mode;-;-;250;-;2048 x 1536;347 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0103.JPG;placeID: 33;species1: Fox
+IMG_0105;26/04/2018  21:01:47;1/30;-;-;-;-;-;Flash fired, auto mode;-;-;200;-;2048 x 1536;317 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0105.JPG;placeID: 33;species1: Fox
+IMG_0107;26/04/2018  21:01:48;1/30;-;-;-;-;-;Flash fired, auto mode;-;-;200;-;2048 x 1536;323 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0107.JPG;placeID: 33;species1: Fox
+IMG_0106;26/04/2018  21:01:48;1/30;-;-;-;-;-;Flash fired, auto mode;-;-;200;-;2048 x 1536;323 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0106.JPG;placeID: 33;species1: Fox
+IMG_0108;26/04/2018  21:01:49;1/30;-;-;-;-;-;Flash fired, auto mode;-;-;200;-;2048 x 1536;321 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0108.JPG;placeID: 33;species1: Fox
+IMG_0109;26/04/2018  21:01:50;1/30;-;-;-;-;-;Flash fired, auto mode;-;-;500;-;2048 x 1536;429 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0109.JPG;placeID: 33;species1: Fox
+IMG_0110;26/04/2018  21:01:51;1/30;-;-;-;-;-;Flash fired, auto mode;-;-;500;-;2048 x 1536;442 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0110.JPG;placeID: 33;species1: Fox
+IMG_0111;27/04/2018  01:07:49;1/30;-;-;-;-;-;Flash fired, auto mode;-;-;500;-;2048 x 1536;431 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0111.JPG;contact1;placeID: 33;species1: Hedgehog
+IMG_0112;27/04/2018  01:07:50;1/30;-;-;-;-;-;Flash fired, auto mode;-;-;500;-;2048 x 1536;439 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0112.JPG;placeID: 33;species1: Hedgehog
+IMG_0114;27/04/2018  01:07:51;1/30;-;-;-;-;-;Flash fired, auto mode;-;-;500;-;2048 x 1536;438 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0114.JPG;placeID: 33;species1: Hedgehog
+IMG_0113;27/04/2018  01:07:51;1/30;-;-;-;-;-;Flash fired, auto mode;-;-;500;-;2048 x 1536;439 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0113.JPG;placeID: 33;species1: Hedgehog
+IMG_0115;27/04/2018  01:07:52;1/30;-;-;-;-;-;Flash fired, auto mode;-;-;500;-;2048 x 1536;439 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0115.JPG;placeID: 33;species1: Hedgehog
+IMG_0116;27/04/2018  01:07:53;1/30;-;-;-;-;-;Flash fired, auto mode;-;-;500;-;2048 x 1536;439 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0116.JPG;placeID: 33;species1: Hedgehog
+IMG_0117;27/04/2018  01:07:54;1/30;-;-;-;-;-;Flash fired, auto mode;-;-;500;-;2048 x 1536;439 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0117.JPG;placeID: 33;species1: Hedgehog
+IMG_0119;27/04/2018  01:07:55;1/30;-;-;-;-;-;Flash fired, auto mode;-;-;500;-;2048 x 1536;439 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0119.JPG;placeID: 33
+IMG_0118;27/04/2018  01:07:55;1/30;-;-;-;-;-;Flash fired, auto mode;-;-;500;-;2048 x 1536;439 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0118.JPG;placeID: 33;species1: Hedgehog
+IMG_0120;27/04/2018  01:07:56;1/30;-;-;-;-;-;Flash fired, auto mode;-;-;500;-;2048 x 1536;439 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0120.JPG;placeID: 33
+IMG_0121;27/04/2018  06:37:55;1/36;-;-;-;-;-;Flash fired, auto mode;-;-;200;-;2048 x 1536;369 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0121.JPG;placeID: 33
+IMG_0123;27/04/2018  06:37:57;1/36;-;-;-;-;-;Flash fired, auto mode;-;-;200;-;2048 x 1536;369 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0123.JPG;placeID: 33
+IMG_0122;27/04/2018  06:37:57;1/36;-;-;-;-;-;Flash fired, auto mode;-;-;200;-;2048 x 1536;369 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0122.JPG;placeID: 33
+IMG_0125;27/04/2018  06:37:58;1/36;-;-;-;-;-;Flash fired, auto mode;-;-;200;-;2048 x 1536;370 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0125.JPG;placeID: 33
+IMG_0124;27/04/2018  06:37:58;1/36;-;-;-;-;-;Flash fired, auto mode;-;-;200;-;2048 x 1536;369 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0124.JPG;placeID: 33
+IMG_0126;27/04/2018  06:37:59;1/36;-;-;-;-;-;Flash fired, auto mode;-;-;200;-;2048 x 1536;350 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0126.JPG;contact1;placeID: 33;species1: Human
+IMG_0127;27/04/2018  06:38:00;1/36;-;-;-;-;-;Flash fired, auto mode;-;-;200;-;2048 x 1536;364 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0127.JPG;contact1;placeID: 33;species1: Dog
+IMG_0129;27/04/2018  06:38:01;1/36;-;-;-;-;-;Flash fired, auto mode;-;-;200;-;2048 x 1536;369 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0129.JPG;placeID: 33
+IMG_0128;27/04/2018  06:38:01;1/36;-;-;-;-;-;Flash fired, auto mode;-;-;200;-;2048 x 1536;370 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0128.JPG;placeID: 33
+IMG_0130;27/04/2018  06:38:02;1/36;-;-;-;-;-;Flash fired, auto mode;-;-;200;-;2048 x 1536;370 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0130.JPG;placeID: 33
+IMG_0131;28/04/2018  14:11:18;1/30;-;-;-;-;-;Not fired, auto mode;-;-;320;-;2048 x 1536;692 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0131.JPG;contact1;placeID: 33;species1: Dog
+IMG_0133;28/04/2018  14:11:20;1/30;-;-;-;-;-;Not fired, auto mode;-;-;320;-;2048 x 1536;590 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0133.JPG;contact2;placeID: 33;species1: Dog;species2: Dog
+IMG_0132;28/04/2018  14:11:20;1/30;-;-;-;-;-;Not fired, auto mode;-;-;320;-;2048 x 1536;587 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0132.JPG;placeID: 33;species1: Dog;species2: Dog
+IMG_0134;28/04/2018  14:11:21;1/30;-;-;-;-;-;Not fired, auto mode;-;-;320;-;2048 x 1536;672 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0134.JPG;placeID: 33;species1: Dog;species2: Dog
+IMG_0135;28/04/2018  14:11:22;1/30;-;-;-;-;-;Not fired, auto mode;-;-;320;-;2048 x 1536;691 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0135.JPG;placeID: 33;species1: Dog;species2: Dog
+IMG_0136;28/04/2018  14:11:23;1/30;-;-;-;-;-;Not fired, auto mode;-;-;320;-;2048 x 1536;693 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0136.JPG;placeID: 33;species1: Dog;species2: Dog
+IMG_0138;28/04/2018  14:11:24;1/30;-;-;-;-;-;Not fired, auto mode;-;-;320;-;2048 x 1536;696 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0138.JPG;placeID: 33;species2: Dog
+IMG_0137;28/04/2018  14:11:24;1/30;-;-;-;-;-;Not fired, auto mode;-;-;320;-;2048 x 1536;693 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0137.JPG;placeID: 33;species1: Dog;species2: Dog
+IMG_0139;28/04/2018  14:11:25;1/30;-;-;-;-;-;Not fired, auto mode;-;-;320;-;2048 x 1536;695 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0139.JPG;placeID: 33;species2: Dog
+IMG_0140;28/04/2018  14:11:26;1/30;-;-;-;-;-;Not fired, auto mode;-;-;320;-;2048 x 1536;695 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0140.JPG;placeID: 33;species2: Dog
+IMG_0141;28/04/2018  14:11:40;1/30;-;-;-;-;-;Not fired, auto mode;-;-;400;-;2048 x 1536;626 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0141.JPG;placeID: 33;species1: Dog
+IMG_0142;28/04/2018  14:11:41;1/30;-;-;-;-;-;Not fired, auto mode;-;-;400;-;2048 x 1536;710 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0142.JPG;placeID: 33
+IMG_0143;28/04/2018  14:11:43;1/30;-;-;-;-;-;Not fired, auto mode;-;-;400;-;2048 x 1536;711 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0143.JPG;placeID: 33
+IMG_0145;28/04/2018  14:11:44;1/30;-;-;-;-;-;Not fired, auto mode;-;-;400;-;2048 x 1536;711 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0145.JPG;placeID: 33
+IMG_0144;28/04/2018  14:11:44;1/30;-;-;-;-;-;Not fired, auto mode;-;-;400;-;2048 x 1536;710 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0144.JPG;placeID: 33
+IMG_0146;28/04/2018  14:11:45;1/30;-;-;-;-;-;Not fired, auto mode;-;-;400;-;2048 x 1536;711 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0146.JPG;placeID: 33
+IMG_0147;28/04/2018  14:11:46;1/30;-;-;-;-;-;Not fired, auto mode;-;-;400;-;2048 x 1536;711 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0147.JPG;placeID: 33
+IMG_0148;28/04/2018  14:11:47;1/30;-;-;-;-;-;Not fired, auto mode;-;-;400;-;2048 x 1536;711 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0148.JPG;placeID: 33
+IMG_0150;28/04/2018  14:11:48;1/30;-;-;-;-;-;Not fired, auto mode;-;-;400;-;2048 x 1536;712 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0150.JPG;placeID: 33
+IMG_0149;28/04/2018  14:11:48;1/30;-;-;-;-;-;Not fired, auto mode;-;-;400;-;2048 x 1536;712 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0149.JPG;placeID: 33
+IMG_0151;28/04/2018  20:59:13;1/30;-;-;-;-;-;Flash fired, auto mode;-;-;500;-;2048 x 1536;432 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0151.JPG;contact1;placeID: 33;species1: Hedgehog
+IMG_0152;28/04/2018  20:59:14;1/30;-;-;-;-;-;Flash fired, auto mode;-;-;500;-;2048 x 1536;449 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0152.JPG;placeID: 33;species1: Hedgehog
+IMG_0153;28/04/2018  20:59:15;1/30;-;-;-;-;-;Flash fired, auto mode;-;-;500;-;2048 x 1536;449 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0153.JPG;placeID: 33;species1: Hedgehog
+IMG_0155;28/04/2018  20:59:16;1/30;-;-;-;-;-;Flash fired, auto mode;-;-;500;-;2048 x 1536;448 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0155.JPG;placeID: 33
+IMG_0154;28/04/2018  20:59:16;1/30;-;-;-;-;-;Flash fired, auto mode;-;-;500;-;2048 x 1536;449 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0154.JPG;placeID: 33;species1: Hedgehog
+IMG_0156;28/04/2018  20:59:17;1/30;-;-;-;-;-;Flash fired, auto mode;-;-;500;-;2048 x 1536;448 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0156.JPG;placeID: 33
+IMG_0157;28/04/2018  20:59:18;1/30;-;-;-;-;-;Flash fired, auto mode;-;-;500;-;2048 x 1536;447 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0157.JPG;placeID: 33
+IMG_0158;28/04/2018  20:59:19;1/30;-;-;-;-;-;Flash fired, auto mode;-;-;500;-;2048 x 1536;448 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0158.JPG;placeID: 33
+IMG_0160;28/04/2018  20:59:20;1/30;-;-;-;-;-;Flash fired, auto mode;-;-;500;-;2048 x 1536;448 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0160.JPG;placeID: 33
+IMG_0159;28/04/2018  20:59:20;1/30;-;-;-;-;-;Flash fired, auto mode;-;-;500;-;2048 x 1536;447 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0159.JPG;placeID: 33
+IMG_0161;29/04/2018  04:42:06;1/44;-;-;-;-;-;Flash fired, auto mode;-;-;200;-;2048 x 1536;265 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0161.JPG;contact1;placeID: 33;species1: Fox
+IMG_0163;29/04/2018  04:42:08;1/30;-;-;-;-;-;Flash fired, auto mode;-;-;200;-;2048 x 1536;292 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0163.JPG;placeID: 33;species1: Fox
+IMG_0162;29/04/2018  04:42:08;1/44;-;-;-;-;-;Flash fired, auto mode;-;-;200;-;2048 x 1536;270 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0162.JPG;placeID: 33;species1: Fox
+IMG_0165;29/04/2018  04:42:10;1/30;-;-;-;-;-;Flash fired, auto mode;-;-;200;-;2048 x 1536;300 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0165.JPG;placeID: 33;species1: Fox
+IMG_0164;29/04/2018  04:42:10;1/30;-;-;-;-;-;Flash fired, auto mode;-;-;200;-;2048 x 1536;300 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0164.JPG;placeID: 33;species1: Fox
+IMG_0167;29/04/2018  04:42:11;1/30;-;-;-;-;-;Flash fired, auto mode;-;-;200;-;2048 x 1536;300 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0167.JPG;placeID: 33;species1: Fox
+IMG_0166;29/04/2018  04:42:11;1/30;-;-;-;-;-;Flash fired, auto mode;-;-;200;-;2048 x 1536;300 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0166.JPG;placeID: 33;species1: Fox
+IMG_0168;29/04/2018  04:42:12;1/30;-;-;-;-;-;Flash fired, auto mode;-;-;200;-;2048 x 1536;300 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0168.JPG;placeID: 33;species1: Fox
+IMG_0169;29/04/2018  04:42:13;1/30;-;-;-;-;-;Flash fired, auto mode;-;-;640;-;2048 x 1536;432 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0169.JPG;placeID: 33;species1: Fox
+IMG_0170;29/04/2018  04:42:14;1/30;-;-;-;-;-;Flash fired, auto mode;-;-;640;-;2048 x 1536;449 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0170.JPG;placeID: 33;species1: Fox
+IMG_0171;29/04/2018  04:42:18;1/30;-;-;-;-;-;Flash fired, auto mode;-;-;640;-;2048 x 1536;450 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0171.JPG;placeID: 33;species1: Fox
+IMG_0173;29/04/2018  04:42:19;1/30;-;-;-;-;-;Flash fired, auto mode;-;-;640;-;2048 x 1536;458 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0173.JPG;placeID: 33;species1: Fox
+IMG_0172;29/04/2018  04:42:19;1/30;-;-;-;-;-;Flash fired, auto mode;-;-;640;-;2048 x 1536;459 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0172.JPG;placeID: 33;species1: Fox
+IMG_0174;29/04/2018  04:42:20;1/30;-;-;-;-;-;Flash fired, auto mode;-;-;640;-;2048 x 1536;458 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0174.JPG;placeID: 33;species1: Fox
+IMG_0175;29/04/2018  04:42:21;1/30;-;-;-;-;-;Flash fired, auto mode;-;-;640;-;2048 x 1536;458 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0175.JPG;placeID: 33;species1: Fox
+IMG_0176;29/04/2018  04:42:22;1/30;-;-;-;-;-;Flash fired, auto mode;-;-;640;-;2048 x 1536;458 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0176.JPG;placeID: 33;species1: Fox
+IMG_0178;29/04/2018  04:42:23;1/30;-;-;-;-;-;Flash fired, auto mode;-;-;640;-;2048 x 1536;458 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0178.JPG;placeID: 33;species1: Fox
+IMG_0177;29/04/2018  04:42:23;1/30;-;-;-;-;-;Flash fired, auto mode;-;-;640;-;2048 x 1536;459 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0177.JPG;placeID: 33;species1: Fox
+IMG_0179;29/04/2018  04:42:24;1/30;-;-;-;-;-;Flash fired, auto mode;-;-;640;-;2048 x 1536;458 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0179.JPG;placeID: 33;species1: Fox
+IMG_0180;29/04/2018  04:42:25;1/30;-;-;-;-;-;Flash fired, auto mode;-;-;640;-;2048 x 1536;459 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0180.JPG;placeID: 33;species1: Fox
+IMG_0181;29/04/2018  10:16:44;1/30;-;-;-;-;-;Not fired, auto mode;-;-;250;-;2048 x 1536;720 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0181.JPG;contact1;placeID: 33;species1: Dog
+IMG_0182;29/04/2018  10:16:45;1/30;-;-;-;-;-;Not fired, auto mode;-;-;250;-;2048 x 1536;721 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0182.JPG;placeID: 33;species1: Dog
+IMG_0183;29/04/2018  10:16:46;1/30;-;-;-;-;-;Not fired, auto mode;-;-;250;-;2048 x 1536;723 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0183.JPG;placeID: 33
+IMG_0184;29/04/2018  10:16:47;1/30;-;-;-;-;-;Not fired, auto mode;-;-;250;-;2048 x 1536;722 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0184.JPG;placeID: 33
+IMG_0185;29/04/2018  10:16:48;1/30;-;-;-;-;-;Not fired, auto mode;-;-;250;-;2048 x 1536;724 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0185.JPG;placeID: 33
+IMG_0187;29/04/2018  10:16:49;1/30;-;-;-;-;-;Not fired, auto mode;-;-;250;-;2048 x 1536;726 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0187.JPG;placeID: 33
+IMG_0186;29/04/2018  10:16:49;1/30;-;-;-;-;-;Not fired, auto mode;-;-;250;-;2048 x 1536;726 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0186.JPG;placeID: 33
+IMG_0188;29/04/2018  10:16:50;1/30;-;-;-;-;-;Not fired, auto mode;-;-;250;-;2048 x 1536;730 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0188.JPG;placeID: 33
+IMG_0189;29/04/2018  10:16:51;1/30;-;-;-;-;-;Not fired, auto mode;-;-;250;-;2048 x 1536;729 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0189.JPG;placeID: 33
+IMG_0190;29/04/2018  10:16:52;1/30;-;-;-;-;-;Not fired, auto mode;-;-;250;-;2048 x 1536;727 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0190.JPG;placeID: 33
+IMG_0191;29/04/2018  10:17:02;1/30;-;-;-;-;-;Not fired, auto mode;-;-;200;-;2048 x 1536;684 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0191.JPG;contact1;placeID: 33;species1: Dog
+IMG_0192;29/04/2018  10:17:03;1/30;-;-;-;-;-;Not fired, auto mode;-;-;200;-;2048 x 1536;720 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0192.JPG;placeID: 33
+IMG_0193;29/04/2018  10:17:04;1/30;-;-;-;-;-;Not fired, auto mode;-;-;200;-;2048 x 1536;720 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0193.JPG;placeID: 33
+IMG_0194;29/04/2018  10:17:05;1/30;-;-;-;-;-;Not fired, auto mode;-;-;200;-;2048 x 1536;720 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0194.JPG;placeID: 33
+IMG_0195;29/04/2018  10:17:06;1/30;-;-;-;-;-;Not fired, auto mode;-;-;200;-;2048 x 1536;720 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0195.JPG;placeID: 33
+IMG_0197;29/04/2018  10:17:07;1/30;-;-;-;-;-;Not fired, auto mode;-;-;200;-;2048 x 1536;721 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0197.JPG;placeID: 33
+IMG_0196;29/04/2018  10:17:07;1/30;-;-;-;-;-;Not fired, auto mode;-;-;200;-;2048 x 1536;720 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0196.JPG;placeID: 33
+IMG_0198;29/04/2018  10:17:08;1/30;-;-;-;-;-;Not fired, auto mode;-;-;200;-;2048 x 1536;721 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0198.JPG;placeID: 33
+IMG_0199;29/04/2018  10:17:09;1/30;-;-;-;-;-;Not fired, auto mode;-;-;200;-;2048 x 1536;721 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0199.JPG;placeID: 33
+IMG_0200;29/04/2018  10:17:10;1/30;-;-;-;-;-;Not fired, auto mode;-;-;200;-;2048 x 1536;720 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0200.JPG;placeID: 33
+IMG_0201;29/04/2018  19:43:32;1/30;-;-;-;-;-;Flash fired, auto mode;-;-;200;-;2048 x 1536;330 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0201.JPG;contact1;placeID: 33;species1: Fox
+IMG_0202;29/04/2018  19:43:33;1/30;-;-;-;-;-;Flash fired, auto mode;-;-;250;-;2048 x 1536;369 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0202.JPG;placeID: 33
+IMG_0203;29/04/2018  19:43:34;1/30;-;-;-;-;-;Flash fired, auto mode;-;-;250;-;2048 x 1536;370 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0203.JPG;placeID: 33
+IMG_0204;29/04/2018  19:43:35;1/30;-;-;-;-;-;Flash fired, auto mode;-;-;250;-;2048 x 1536;369 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0204.JPG;placeID: 33
+IMG_0205;29/04/2018  19:43:35;1/30;-;-;-;-;-;Flash fired, auto mode;-;-;250;-;2048 x 1536;369 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0205.JPG;placeID: 33
+IMG_0206;29/04/2018  19:43:36;1/30;-;-;-;-;-;Flash fired, auto mode;-;-;250;-;2048 x 1536;369 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0206.JPG;placeID: 33
+IMG_0207;29/04/2018  19:43:36;1/30;-;-;-;-;-;Flash fired, auto mode;-;-;250;-;2048 x 1536;370 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0207.JPG;placeID: 33
+IMG_0208;29/04/2018  19:43:37;1/30;-;-;-;-;-;Flash fired, auto mode;-;-;250;-;2048 x 1536;370 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0208.JPG;placeID: 33
+IMG_0210;29/04/2018  19:43:38;1/30;-;-;-;-;-;Flash fired, auto mode;-;-;250;-;2048 x 1536;369 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0210.JPG;placeID: 33
+IMG_0209;29/04/2018  19:43:38;1/30;-;-;-;-;-;Flash fired, auto mode;-;-;250;-;2048 x 1536;370 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0209.JPG;placeID: 33
+IMG_0211;29/04/2018  21:22:26;1/30;-;-;-;-;-;Flash fired, auto mode;-;-;320;-;2048 x 1536;341 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0211.JPG;contact1;placeID: 33;species1: Fox
+IMG_0212;29/04/2018  21:22:27;1/30;-;-;-;-;-;Flash fired, auto mode;-;-;640;-;2048 x 1536;433 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0212.JPG;placeID: 33;species1: Fox
+IMG_0213;29/04/2018  21:22:29;1/30;-;-;-;-;-;Flash fired, auto mode;-;-;640;-;2048 x 1536;447 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0213.JPG;placeID: 33
+IMG_0215;29/04/2018  21:22:30;1/30;-;-;-;-;-;Flash fired, auto mode;-;-;640;-;2048 x 1536;445 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0215.JPG;placeID: 33
+IMG_0214;29/04/2018  21:22:30;1/30;-;-;-;-;-;Flash fired, auto mode;-;-;640;-;2048 x 1536;446 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0214.JPG;placeID: 33
+IMG_0216;29/04/2018  21:22:31;1/30;-;-;-;-;-;Flash fired, auto mode;-;-;640;-;2048 x 1536;445 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0216.JPG;placeID: 33
+IMG_0217;29/04/2018  21:22:32;1/30;-;-;-;-;-;Flash fired, auto mode;-;-;640;-;2048 x 1536;444 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0217.JPG;placeID: 33
+IMG_0218;29/04/2018  21:22:33;1/30;-;-;-;-;-;Flash fired, auto mode;-;-;640;-;2048 x 1536;444 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0218.JPG;placeID: 33
+IMG_0220;29/04/2018  21:22:34;1/30;-;-;-;-;-;Flash fired, auto mode;-;-;640;-;2048 x 1536;443 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0220.JPG;placeID: 33
+IMG_0219;29/04/2018  21:22:34;1/30;-;-;-;-;-;Flash fired, auto mode;-;-;640;-;2048 x 1536;444 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0219.JPG;placeID: 33
+IMG_0221;29/04/2018  21:57:35;1/30;-;-;-;-;-;Flash fired, auto mode;-;-;640;-;2048 x 1536;447 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0221.JPG;placeID: 33
+IMG_0223;29/04/2018  21:57:37;1/30;-;-;-;-;-;Flash fired, auto mode;-;-;640;-;2048 x 1536;463 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0223.JPG;placeID: 33
+IMG_0222;29/04/2018  21:57:37;1/30;-;-;-;-;-;Flash fired, auto mode;-;-;640;-;2048 x 1536;463 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0222.JPG;placeID: 33
+IMG_0224;29/04/2018  21:57:38;1/30;-;-;-;-;-;Flash fired, auto mode;-;-;640;-;2048 x 1536;461 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0224.JPG;placeID: 33
+IMG_0225;29/04/2018  21:57:39;1/30;-;-;-;-;-;Flash fired, auto mode;-;-;640;-;2048 x 1536;461 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0225.JPG;placeID: 33
+IMG_0226;29/04/2018  21:57:40;1/30;-;-;-;-;-;Flash fired, auto mode;-;-;640;-;2048 x 1536;461 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0226.JPG;placeID: 33
+IMG_0228;29/04/2018  21:57:41;1/30;-;-;-;-;-;Flash fired, auto mode;-;-;640;-;2048 x 1536;461 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0228.JPG;placeID: 33
+IMG_0227;29/04/2018  21:57:41;1/30;-;-;-;-;-;Flash fired, auto mode;-;-;640;-;2048 x 1536;460 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0227.JPG;placeID: 33
+IMG_0229;29/04/2018  21:57:42;1/30;-;-;-;-;-;Flash fired, auto mode;-;-;640;-;2048 x 1536;462 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0229.JPG;placeID: 33
+IMG_0230;29/04/2018  21:57:43;1/30;-;-;-;-;-;Flash fired, auto mode;-;-;640;-;2048 x 1536;462 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0230.JPG;placeID: 33
+IMG_0231;30/04/2018  17:22:41;1/30;-;-;-;-;-;Not fired, auto mode;-;-;200;-;2048 x 1536;706 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0231.JPG;contact1;placeID: 33;species1: Squirrel
+IMG_0232;30/04/2018  17:22:42;1/30;-;-;-;-;-;Not fired, auto mode;-;-;200;-;2048 x 1536;709 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0232.JPG;placeID: 33;species1: Squirrel
+IMG_0234;30/04/2018  17:22:43;1/30;-;-;-;-;-;Not fired, auto mode;-;-;200;-;2048 x 1536;710 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0234.JPG;placeID: 33;species1: Squirrel
+IMG_0233;30/04/2018  17:22:43;1/30;-;-;-;-;-;Not fired, auto mode;-;-;200;-;2048 x 1536;710 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0233.JPG;placeID: 33;species1: Squirrel
+IMG_0235;30/04/2018  17:22:44;1/30;-;-;-;-;-;Not fired, auto mode;-;-;200;-;2048 x 1536;710 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0235.JPG;placeID: 33;species1: Squirrel
+IMG_0236;30/04/2018  17:22:45;1/30;-;-;-;-;-;Not fired, auto mode;-;-;200;-;2048 x 1536;711 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0236.JPG;placeID: 33;species1: Squirrel
+IMG_0237;30/04/2018  17:22:46;1/30;-;-;-;-;-;Not fired, auto mode;-;-;200;-;2048 x 1536;712 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0237.JPG;placeID: 33;species1: Squirrel
+IMG_0238;30/04/2018  17:22:47;1/30;-;-;-;-;-;Not fired, auto mode;-;-;200;-;2048 x 1536;711 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0238.JPG;placeID: 33;species1: Squirrel
+IMG_0239;30/04/2018  17:22:48;1/30;-;-;-;-;-;Not fired, auto mode;-;-;200;-;2048 x 1536;712 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0239.JPG;placeID: 33;species1: Squirrel
+IMG_0240;30/04/2018  17:22:49;1/30;-;-;-;-;-;Not fired, auto mode;-;-;200;-;2048 x 1536;712 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0240.JPG;placeID: 33
+IMG_0241;30/04/2018  17:23:51;1/30;-;-;-;-;-;Not fired, auto mode;-;-;250;-;2048 x 1536;713 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0241.JPG;placeID: 33;species1: Squirrel
+IMG_0242;30/04/2018  17:23:52;1/30;-;-;-;-;-;Not fired, auto mode;-;-;250;-;2048 x 1536;715 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0242.JPG;placeID: 33;species1: Squirrel
+IMG_0243;30/04/2018  17:23:53;1/30;-;-;-;-;-;Not fired, auto mode;-;-;250;-;2048 x 1536;712 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0243.JPG;placeID: 33;species1: Squirrel
+IMG_0244;30/04/2018  17:23:54;1/30;-;-;-;-;-;Not fired, auto mode;-;-;250;-;2048 x 1536;703 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0244.JPG;placeID: 33;species1: Squirrel
+IMG_0246;30/04/2018  17:23:55;1/30;-;-;-;-;-;Not fired, auto mode;-;-;250;-;2048 x 1536;710 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0246.JPG;placeID: 33;species1: Squirrel
+IMG_0245;30/04/2018  17:23:55;1/30;-;-;-;-;-;Not fired, auto mode;-;-;250;-;2048 x 1536;701 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0245.JPG;placeID: 33;species1: Squirrel
+IMG_0247;30/04/2018  17:23:56;1/30;-;-;-;-;-;Not fired, auto mode;-;-;250;-;2048 x 1536;717 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0247.JPG;placeID: 33;species1: Squirrel
+IMG_0248;30/04/2018  17:23:57;1/30;-;-;-;-;-;Not fired, auto mode;-;-;250;-;2048 x 1536;716 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0248.JPG;placeID: 33;species1: Squirrel
+IMG_0249;30/04/2018  17:23:58;1/30;-;-;-;-;-;Not fired, auto mode;-;-;250;-;2048 x 1536;717 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0249.JPG;placeID: 33;species1: Squirrel
+IMG_0250;30/04/2018  17:23:59;1/30;-;-;-;-;-;Not fired, auto mode;-;-;250;-;2048 x 1536;723 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0250.JPG;placeID: 33;species1: Squirrel
+IMG_0251;01/05/2018  08:24:06;1/43;-;-;-;-;-;Not fired, auto mode;-;-;200;-;2048 x 1536;725 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0251.JPG;contact1;placeID: 33;species1: Squirrel
+IMG_0252;01/05/2018  08:24:08;1/43;-;-;-;-;-;Not fired, auto mode;-;-;200;-;2048 x 1536;727 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0252.JPG;placeID: 33;species1: Squirrel
+IMG_0253;01/05/2018  08:24:09;1/43;-;-;-;-;-;Not fired, auto mode;-;-;200;-;2048 x 1536;728 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0253.JPG;placeID: 33;species1: Squirrel
+IMG_0254;01/05/2018  08:24:10;1/43;-;-;-;-;-;Not fired, auto mode;-;-;200;-;2048 x 1536;727 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0254.JPG;placeID: 33;species1: Squirrel
+IMG_0256;01/05/2018  08:24:11;1/43;-;-;-;-;-;Not fired, auto mode;-;-;200;-;2048 x 1536;726 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0256.JPG;placeID: 33;species1: Squirrel
+IMG_0255;01/05/2018  08:24:11;1/43;-;-;-;-;-;Not fired, auto mode;-;-;200;-;2048 x 1536;726 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0255.JPG;placeID: 33;species1: Squirrel
+IMG_0257;01/05/2018  08:24:12;1/43;-;-;-;-;-;Not fired, auto mode;-;-;200;-;2048 x 1536;727 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0257.JPG;placeID: 33;species1: Squirrel
+IMG_0258;01/05/2018  08:24:13;1/43;-;-;-;-;-;Not fired, auto mode;-;-;200;-;2048 x 1536;726 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0258.JPG;placeID: 33;species1: Squirrel
+IMG_0259;01/05/2018  08:24:14;1/43;-;-;-;-;-;Not fired, auto mode;-;-;200;-;2048 x 1536;725 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0259.JPG;placeID: 33;species1: Squirrel
+IMG_0260;01/05/2018  08:24:15;1/43;-;-;-;-;-;Not fired, auto mode;-;-;200;-;2048 x 1536;724 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0260.JPG;placeID: 33;species1: Squirrel
+IMG_0261;01/05/2018  08:25:13;1/45;-;-;-;-;-;Not fired, auto mode;-;-;200;-;2048 x 1536;718 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0261.JPG;placeID: 33;species1: Squirrel
+IMG_0262;01/05/2018  08:25:14;1/45;-;-;-;-;-;Not fired, auto mode;-;-;200;-;2048 x 1536;725 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0262.JPG;placeID: 33
+IMG_0263;01/05/2018  08:25:15;1/45;-;-;-;-;-;Not fired, auto mode;-;-;200;-;2048 x 1536;726 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0263.JPG;placeID: 33
+IMG_0264;01/05/2018  08:25:16;1/45;-;-;-;-;-;Not fired, auto mode;-;-;200;-;2048 x 1536;726 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0264.JPG;placeID: 33
+IMG_0266;01/05/2018  08:25:17;1/45;-;-;-;-;-;Not fired, auto mode;-;-;200;-;2048 x 1536;726 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0266.JPG;placeID: 33
+IMG_0265;01/05/2018  08:25:17;1/45;-;-;-;-;-;Not fired, auto mode;-;-;200;-;2048 x 1536;726 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0265.JPG;placeID: 33
+IMG_0267;01/05/2018  08:25:18;1/45;-;-;-;-;-;Not fired, auto mode;-;-;200;-;2048 x 1536;726 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0267.JPG;placeID: 33
+IMG_0268;01/05/2018  08:25:19;1/45;-;-;-;-;-;Not fired, auto mode;-;-;200;-;2048 x 1536;727 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0268.JPG;placeID: 33
+IMG_0269;01/05/2018  08:25:20;1/45;-;-;-;-;-;Not fired, auto mode;-;-;200;-;2048 x 1536;727 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0269.JPG;placeID: 33
+IMG_0270;01/05/2018  08:25:21;1/45;-;-;-;-;-;Not fired, auto mode;-;-;200;-;2048 x 1536;727 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0270.JPG;placeID: 33
+IMG_0271;01/05/2018  08:27:39;1/55;-;-;-;-;-;Not fired, auto mode;-;-;200;-;2048 x 1536;692 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0271.JPG;placeID: 33
+IMG_0272;01/05/2018  08:27:41;1/55;-;-;-;-;-;Not fired, auto mode;-;-;200;-;2048 x 1536;682 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0272.JPG;placeID: 33
+IMG_0273;01/05/2018  08:27:42;1/55;-;-;-;-;-;Not fired, auto mode;-;-;200;-;2048 x 1536;683 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0273.JPG;placeID: 33
+IMG_0274;01/05/2018  08:27:43;1/60;-;-;-;-;-;Not fired, auto mode;-;-;160;-;2048 x 1536;655 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0274.JPG;placeID: 33
+IMG_0275;01/05/2018  08:27:44;1/60;-;-;-;-;-;Not fired, auto mode;-;-;160;-;2048 x 1536;632 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0275.JPG;placeID: 33
+IMG_0276;01/05/2018  08:27:45;1/60;-;-;-;-;-;Not fired, auto mode;-;-;160;-;2048 x 1536;650 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0276.JPG;placeID: 33
+IMG_0278;01/05/2018  08:27:46;1/60;-;-;-;-;-;Not fired, auto mode;-;-;160;-;2048 x 1536;652 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0278.JPG;placeID: 33
+IMG_0277;01/05/2018  08:27:46;1/60;-;-;-;-;-;Not fired, auto mode;-;-;160;-;2048 x 1536;645 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0277.JPG;placeID: 33
+IMG_0279;01/05/2018  08:27:47;1/60;-;-;-;-;-;Not fired, auto mode;-;-;160;-;2048 x 1536;651 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0279.JPG;placeID: 33
+IMG_0280;01/05/2018  08:27:48;1/60;-;-;-;-;-;Not fired, auto mode;-;-;160;-;2048 x 1536;651 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0280.JPG;placeID: 33
+IMG_0281;01/05/2018  17:38:46;1/30;-;-;-;-;-;Not fired, auto mode;-;-;250;-;2048 x 1536;616 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0281.JPG;placeID: 33
+IMG_0283;01/05/2018  17:38:48;1/30;-;-;-;-;-;Not fired, auto mode;-;-;250;-;2048 x 1536;603 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0283.JPG;placeID: 33
+IMG_0282;01/05/2018  17:38:48;1/30;-;-;-;-;-;Not fired, auto mode;-;-;250;-;2048 x 1536;609 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0282.JPG;placeID: 33
+IMG_0284;01/05/2018  17:38:49;1/30;-;-;-;-;-;Not fired, auto mode;-;-;250;-;2048 x 1536;588 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0284.JPG;placeID: 33
+IMG_0285;01/05/2018  17:38:50;1/30;-;-;-;-;-;Not fired, auto mode;-;-;250;-;2048 x 1536;566 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0285.JPG;placeID: 33
+IMG_0286;01/05/2018  17:38:51;1/30;-;-;-;-;-;Not fired, auto mode;-;-;800;-;2048 x 1536;484 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0286.JPG;placeID: 33
+IMG_0287;01/05/2018  17:38:52;1/30;-;-;-;-;-;Not fired, auto mode;-;-;800;-;2048 x 1536;372 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0287.JPG;placeID: 33
+IMG_0289;01/05/2018  17:38:53;1/30;-;-;-;-;-;Not fired, auto mode;-;-;800;-;2048 x 1536;362 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0289.JPG;placeID: 33
+IMG_0288;01/05/2018  17:38:53;1/30;-;-;-;-;-;Not fired, auto mode;-;-;800;-;2048 x 1536;349 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0288.JPG;placeID: 33
+IMG_0290;01/05/2018  17:38:54;1/30;-;-;-;-;-;Not fired, auto mode;-;-;800;-;2048 x 1536;363 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0290.JPG;placeID: 33
+IMG_0291;01/05/2018  17:38:55;1/480;-;-;-;-;-;Flash fired, auto mode;-;-;50;-;2048 x 1536;145 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0291.JPG;placeID: 33
+IMG_0292;01/05/2018  17:38:57;1/576;-;-;-;-;-;Flash fired, auto mode;-;-;50;-;2048 x 1536;140 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0292.JPG;placeID: 33
+IMG_0293;01/05/2018  17:38:58;1/576;-;-;-;-;-;Flash fired, auto mode;-;-;50;-;2048 x 1536;140 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0293.JPG;placeID: 33
+IMG_0294;01/05/2018  17:38:59;1/576;-;-;-;-;-;Flash fired, auto mode;-;-;50;-;2048 x 1536;140 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0294.JPG;placeID: 33
+IMG_0296;01/05/2018  17:39:00;1/576;-;-;-;-;-;Flash fired, auto mode;-;-;50;-;2048 x 1536;140 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0296.JPG;placeID: 33
+IMG_0295;01/05/2018  17:39:00;1/576;-;-;-;-;-;Flash fired, auto mode;-;-;50;-;2048 x 1536;140 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0295.JPG;placeID: 33
+IMG_0297;01/05/2018  17:39:01;1/864;-;-;-;-;-;Flash fired, auto mode;-;-;50;-;2048 x 1536;129 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0297.JPG;placeID: 33
+IMG_0298;01/05/2018  17:39:02;1/617;-;-;-;-;-;Flash fired, auto mode;-;-;50;-;2048 x 1536;139 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0298.JPG;placeID: 33
+IMG_0299;01/05/2018  17:39:03;1/617;-;-;-;-;-;Flash fired, auto mode;-;-;50;-;2048 x 1536;142 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0299.JPG;placeID: 33
+IMG_0300;01/05/2018  17:39:04;1/617;-;-;-;-;-;Flash fired, auto mode;-;-;50;-;2048 x 1536;142 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0300.JPG;placeID: 33
+IMG_0301;01/05/2018  17:39:07;1/455;-;-;-;-;-;Flash fired, auto mode;-;-;50;-;2048 x 1536;146 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0301.JPG;placeID: 33
+IMG_0303;01/05/2018  17:39:08;1/455;-;-;-;-;-;Flash fired, auto mode;-;-;50;-;2048 x 1536;150 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0303.JPG;placeID: 33
+IMG_0302;01/05/2018  17:39:08;1/455;-;-;-;-;-;Flash fired, auto mode;-;-;50;-;2048 x 1536;147 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0302.JPG;placeID: 33
+IMG_0304;01/05/2018  17:39:09;1/455;-;-;-;-;-;Flash fired, auto mode;-;-;50;-;2048 x 1536;146 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0304.JPG;placeID: 33
+IMG_0306;01/05/2018  17:39:10;1/455;-;-;-;-;-;Flash fired, auto mode;-;-;50;-;2048 x 1536;146 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0306.JPG;placeID: 33
+IMG_0305;01/05/2018  17:39:10;1/455;-;-;-;-;-;Flash fired, auto mode;-;-;50;-;2048 x 1536;146 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0305.JPG;placeID: 33
+IMG_0307;01/05/2018  17:39:11;1/455;-;-;-;-;-;Flash fired, auto mode;-;-;50;-;2048 x 1536;147 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0307.JPG;placeID: 33
+IMG_0308;01/05/2018  17:39:11;1/455;-;-;-;-;-;Flash fired, auto mode;-;-;50;-;2048 x 1536;148 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0308.JPG;placeID: 33
+IMG_0309;01/05/2018  17:39:12;1/455;-;-;-;-;-;Flash fired, auto mode;-;-;50;-;2048 x 1536;148 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0309.JPG;placeID: 33
+IMG_0310;01/05/2018  17:39:13;1/455;-;-;-;-;-;Flash fired, auto mode;-;-;50;-;2048 x 1536;148 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0310.JPG;placeID: 33
+IMG_0311;01/05/2018  17:39:16;1/376;-;-;-;-;-;Flash fired, auto mode;-;-;50;-;2048 x 1536;148 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0311.JPG;placeID: 33
+IMG_0312;01/05/2018  17:39:17;1/279;-;-;-;-;-;Flash fired, auto mode;-;-;50;-;2048 x 1536;145 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0312.JPG;placeID: 33
+IMG_0313;01/05/2018  17:39:19;1/120;-;-;-;-;-;Flash fired, auto mode;-;-;64;-;2048 x 1536;279 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0313.JPG;placeID: 33
+IMG_0315;01/05/2018  17:39:21;1/120;-;-;-;-;-;Flash fired, auto mode;-;-;50;-;2048 x 1536;161 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0315.JPG;placeID: 33
+IMG_0314;01/05/2018  17:39:21;1/120;-;-;-;-;-;Flash fired, auto mode;-;-;64;-;2048 x 1536;293 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0314.JPG;placeID: 33
+IMG_0316;01/05/2018  17:39:22;1/288;-;-;-;-;-;Flash fired, auto mode;-;-;50;-;2048 x 1536;150 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0316.JPG;placeID: 33
+IMG_0317;01/05/2018  17:39:24;1/332;-;-;-;-;-;Flash fired, auto mode;-;-;50;-;2048 x 1536;139 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0317.JPG;placeID: 33
+IMG_0318;01/05/2018  17:39:25;1/455;-;-;-;-;-;Flash fired, auto mode;-;-;50;-;2048 x 1536;144 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0318.JPG;placeID: 33
+IMG_0319;01/05/2018  17:39:27;1/508;-;-;-;-;-;Flash fired, auto mode;-;-;50;-;2048 x 1536;135 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0319.JPG;placeID: 33
+IMG_0320;01/05/2018  17:39:29;1/508;-;-;-;-;-;Flash fired, auto mode;-;-;50;-;2048 x 1536;136 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0320.JPG;placeID: 33
+IMG_0321;01/05/2018  17:39:52;1/112;-;-;-;-;-;Flash fired, auto mode;-;-;100;-;2048 x 1536;188 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0321.JPG;placeID: 33
+IMG_0322;01/05/2018  17:39:53;1/94;-;-;-;-;-;Flash fired, auto mode;-;-;100;-;2048 x 1536;253 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0322.JPG;placeID: 33
+IMG_0323;01/05/2018  17:39:55;1/94;-;-;-;-;-;Flash fired, auto mode;-;-;100;-;2048 x 1536;256 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0323.JPG;placeID: 33
+IMG_0325;01/05/2018  17:39:56;1/94;-;-;-;-;-;Flash fired, auto mode;-;-;100;-;2048 x 1536;257 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0325.JPG;placeID: 33
+IMG_0324;01/05/2018  17:39:56;1/94;-;-;-;-;-;Flash fired, auto mode;-;-;100;-;2048 x 1536;213 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0324.JPG;placeID: 33
+IMG_0326;01/05/2018  17:39:57;1/120;-;-;-;-;-;Flash fired, auto mode;-;-;80;-;2048 x 1536;227 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0326.JPG;placeID: 33
+IMG_0327;01/05/2018  17:39:58;1/120;-;-;-;-;-;Flash fired, auto mode;-;-;80;-;2048 x 1536;225 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0327.JPG;placeID: 33
+IMG_0329;01/05/2018  17:39:59;1/117;-;-;-;-;-;Flash fired, auto mode;-;-;100;-;2048 x 1536;277 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0329.JPG;placeID: 33
+IMG_0328;01/05/2018  17:39:59;1/120;-;-;-;-;-;Flash fired, auto mode;-;-;80;-;2048 x 1536;230 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0328.JPG;placeID: 33
+IMG_0330;01/05/2018  17:40:01;1/117;-;-;-;-;-;Flash fired, auto mode;-;-;100;-;2048 x 1536;238 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0330.JPG;placeID: 33
+IMG_0331;01/05/2018  17:40:02;1/30;-;-;-;-;-;Not fired, auto mode;-;-;800;-;2048 x 1536;422 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0331.JPG;placeID: 33
+IMG_0332;01/05/2018  17:40:05;1/30;-;-;-;-;-;Not fired, auto mode;-;-;800;-;2048 x 1536;434 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0332.JPG;placeID: 33
+IMG_0333;01/05/2018  17:40:06;1/184;-;-;-;-;-;Not fired, auto mode;-;-;50;-;2048 x 1536;463 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0333.JPG;placeID: 33
+IMG_0334;01/05/2018  17:40:10;1/30;-;-;-;-;-;Not fired, auto mode;-;-;800;-;2048 x 1536;430 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0334.JPG;placeID: 33
+IMG_0335;01/05/2018  17:40:11;1/30;-;-;-;-;-;Not fired, auto mode;-;-;800;-;2048 x 1536;411 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0335.JPG;placeID: 33
+IMG_0336;01/05/2018  17:40:12;1/180;-;-;-;-;-;Not fired, auto mode;-;-;50;-;2048 x 1536;497 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0336.JPG;placeID: 33
+IMG_0337;01/05/2018  17:40:15;1/30;-;-;-;-;-;Not fired, auto mode;-;-;800;-;2048 x 1536;453 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0337.JPG;placeID: 33
+IMG_0338;01/05/2018  17:40:17;1/30;-;-;-;-;-;Not fired, auto mode;-;-;800;-;2048 x 1536;443 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0338.JPG;placeID: 33
+IMG_0339;01/05/2018  17:40:18;1/30;-;-;-;-;-;Not fired, auto mode;-;-;800;-;2048 x 1536;476 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0339.JPG;placeID: 33
+IMG_0340;01/05/2018  17:40:19;1/30;-;-;-;-;-;Not fired, auto mode;-;-;800;-;2048 x 1536;421 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0340.JPG;placeID: 33
+IMG_0341;01/05/2018  17:40:20;1/30;-;-;-;-;-;Not fired, auto mode;-;-;250;-;2048 x 1536;329 KB;D:\Hampstead Heath Survey photos\21_40\33_HH_1_5_18_DCIM\101RECNX\IMG_0341.JPG;placeID: 33
