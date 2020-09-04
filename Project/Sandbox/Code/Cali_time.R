@@ -67,13 +67,13 @@ summary(lmm)
 h_diff <- d %>% group_by(h)  %>% summarise(count_diff = sum(abs))
 h_c <- d %>% group_by(h) %>% count()
 h_diff$percent <- h_diff$count_diff / h_c$n
-ggplot(h_diff, aes(x=h, y=percent)) + geom_point() +theme_bw(base_size = 16) +
-  theme(panel.grid.major = element_blank(), panel.grid.minor = element_blank())
+ggplot(h_diff, aes(x=h, y=percent)) + geom_point()
 
 png("../Results/misclassified_rate_time_all.png")
 p1<-ggplot(data = h_diff, aes(x=h, y=percent)) +
   geom_point() + theme_bw(base_size = 16) +
   xlab("time") + ylab("misclassified rate") + 
+  ggtitle("misclassified rates against time") +
   theme(panel.grid.major = element_blank(), panel.grid.minor = element_blank())
 p1
 graphics.off()
@@ -88,21 +88,12 @@ p1
 graphics.off()
 
 
-#lmm<-lmer(percentage~ time + (1 | placeID),data = total_diff)
-#summary(lmm)
+lmm<-lmer(percentage~ time + (1 | placeID),data = total_diff)
+summary(lmm)
 
 lmm<-lmer(percentage~ placeID + (1 | time),data = total_diff)
 summary(lmm)
 
-
-
-
-library("nlme")
-
-glmm_tn_all <- lme(percentage~ placeID, random=~1|time, data = total_diff)
-summary(glmm_tn_all)
-
-
-
-
+lmm<-lm(percentage~ placeID +  time,data = total_diff)
+summary(lmm)
 

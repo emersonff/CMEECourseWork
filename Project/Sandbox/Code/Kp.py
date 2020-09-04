@@ -1,6 +1,6 @@
-#!usr/bin/env python3s
+#!usr/bin/env python3
 """Kp class to read skeleton data"""
-__appname__ = "keypoints class "
+__appname__ = "Json class "
 __author__ = "Xiang Li(xiang.li419@imperial.ac.uk)"
 __version__ = "0.0.1"
 __license__ = "none"
@@ -52,7 +52,6 @@ class Kp:
         return a
 
     def __AdjMatrix(self):
-        """adjacent matrix of the line graph"""
         m = np.zeros((14, 14))
         for i in np.array(range(0,14)):
             for j in np.array(range(0,14)):
@@ -63,7 +62,6 @@ class Kp:
         return m
     
     def __DeMatrix(self): 
-        """degree matrix of the line graph"""
         return np.diag(self.adj.sum(axis=1))
 
     def __NormLpMatrix(self):
@@ -71,7 +69,7 @@ class Kp:
         try:
             x, V = np.linalg.eig(self.Lap)
         except:
-            print(" ") 
+            print(self.Lap) 
         x = abs(x)
         x = zip(x, range(len(x)))
         x = sorted(x, key=lambda x:x[0])#(eigenvalue, index) sorted in ascending order

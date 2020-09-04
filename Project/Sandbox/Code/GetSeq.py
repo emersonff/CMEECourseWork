@@ -13,16 +13,13 @@ import numpy as np
 import re
 import shutil
 from datetime import datetime
-import Json
 #import glob
 
 ### globals
 int_low = 0#time interval
 int_up = 24
 seq_interval = 30 #every 45 seconds
-temp = Json.Json("../Data/p1/", 0.5 , 1)#read json files
-temp.CountCsv()
-d = pd.read_csv("../Results/SkeletonCount.csv")
+d = pd.read_csv("../Data/SkeletonCount.csv")
 
 def main(argv):
     """main entry of the program"""
@@ -49,7 +46,7 @@ def main(argv):
                     diff = (t2 - t1).total_seconds()   
             i = j
     df = d.loc[d.SourceFile.isin(image_list), ]
-    df.to_csv("../Results/Seq_first_ske.csv", index = False)
+    df.to_csv("../Data/Seq_first_ske.csv", index = False)
     return 0
 
 if __name__ == "__main__":

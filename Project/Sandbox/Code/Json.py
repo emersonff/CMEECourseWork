@@ -61,12 +61,12 @@ class Json:
     def CountCsv(self):
         """return a csv file that contains the number of skeletons, file name and create date for
         images that contains at least one complete skeleton data."""
-        d = pd.read_csv("../Results/Final_Data.csv")
+        d = pd.read_csv("../Data/Final_Data.csv")
         dic = {k:len(v) for (k, v) in self.fullske.items()}
         date = d.loc[d.SourceFile.isin(dic.keys()), ["SourceFile", "CreateDate", "h", "placeID"]]
         df = pd.DataFrame(list(dic.items()),columns = ["SourceFile","Count"])
         df = pd.merge(df, date, on = "SourceFile")
-        df.to_csv("../Results/SkeletonCount.csv", index = False)
+        df.to_csv("../Data/SkeletonCount.csv", index = False)
         return 0
 
 
