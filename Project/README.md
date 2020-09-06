@@ -2,7 +2,7 @@
 
 This is an index of code of my final project submitted in partial fulfilment of the requirements for the degree of Master of Science/Research at Imperial College London.
 
-To download the skeleton data(JSON files), please visit:
+To download the skeleton data(JSON files), please visit: https://drive.google.com/file/d/1Pa8huQ8Lz_dXCWxJYm5ClphJN_ctQkqI/view?usp=sharing
 
 
 The main running sequence is as follows:
